@@ -2,7 +2,7 @@ jQuery(document).ready(function($) {
   "use strict";
 
   const URL_DOMAIN = window.location.protocol+"//"+window.location.hostname+("")+"/"; // :8080
-  // "http://cofundie.com/"; // "https://cofundieapp.herokuapp.com/"; // "http://localhost:8080/"; // 
+  // "http://[SAMPLE_COMPANY].com/"; // "https://[SAMPLE_COMPANY]app.herokuapp.com/"; // "http://localhost:8080/"; // 
   var AutoWebsiteAccessData = {
     routes: {
       autowebsite: URL_DOMAIN + "public/autowebsite/"

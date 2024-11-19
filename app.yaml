@@ -2,10 +2,10 @@ runtime: nodejs10
 env: standard
 
 env_variables: 
-  DOMAIN: "www.cofundie.com/"
+  DOMAIN: "www.[SAMPLE_COMPANY].com/"
   PROTOCOL: "https://"
-  IP: "cofundieapp.herokuapp.com/"
+  IP: "[SAMPLE_COMPANY]app.herokuapp.com/"
   PORT: "8080"
   NODE_ENV: "production"
-  MONGOLAB_URI: "mongodb://mr_amoaddai:cofundie2019@ds259787.mlab.com:59787/cofundie"
-  SECRET_SESSION: "cofundie-secret"
+  MONGOLAB_URI: "mongodb://mr_amoaddai:[SAMPLE_COMPANY]2019@ds259787.mlab.com:59787/[SAMPLE_COMPANY]"
+  SECRET_SESSION: "[SAMPLE_COMPANY]-secret"

@@ -1377,17 +1377,17 @@ var ModuleReferencer = {
                 return "";
             }, // THIS PROPERTY MUST BE HARD CODED
             get companyName() {
-                return "Cofundie";
+                return "[SAMPLE_COMPANY]";
             },
             get companyRegisteredName() {
-                return "Cofundie";
+                return "[SAMPLE_COMPANY]";
             },
             get companyDetails() {
-                return "Cofundie is a Real Estate Investment platform. \
+                return "[SAMPLE_COMPANY] is a Real Estate Investment platform. \
                 Our mission is to provide direct access to top notch & carefully analysed Real Estate deals.";
             },
             get companyEmail() {
-                return "invest@cofundie.com";
+                return "invest@[SAMPLE_COMPANY].com";
             },
             get companyPhoneNumber() {
                 return "+233 24 014 3392";

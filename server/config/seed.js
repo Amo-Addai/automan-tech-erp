@@ -227,7 +227,7 @@ var defaultData = {
                 "gender": "Male",
                 "nationality": "Nigeria",
                 "age": 25,
-                "email": "emeka@cofundie.com",
+                "email": "emeka@[SAMPLE_COMPANY].com",
                 "phone": "+2347033720264",
                 "contact_method": "Email"
             },
@@ -240,7 +240,7 @@ var defaultData = {
                 "gender": "Female",
                 "nationality": "United Kingdom",
                 "age": 26,
-                "email": "zahra@cofundie.com",
+                "email": "zahra@[SAMPLE_COMPANY].com",
                 "phone": "+447946673908",
                 "contact_method": "Email"
             },

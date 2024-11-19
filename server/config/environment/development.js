@@ -14,8 +14,7 @@ module.exports = {
   port: 8080,
   
   // MongoDB connection options
-  mongo: { // MONGODB URI FORMAT: mongodb+srv://mr_amoaddai:<password>@cofundie.sifrt.mongodb.net/<dbname>?retryWrites=true&w=majority
-    // uri: 'mongodb://kwadwoamoad:AUTOMAN@ds233238.mlab.com:33238/automanapi'
+  mongo: { // MONGODB URI FORMAT: mongodb+srv://username:<password>@[SAMPLE_COMPANY].sifrt.mongodb.net/<dbname>?retryWrites=true&w=majority
     uri: 'mongodb://localhost/automanapi-dev',
     options : {
       useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true

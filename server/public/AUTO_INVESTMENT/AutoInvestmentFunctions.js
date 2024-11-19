@@ -366,11 +366,11 @@ async function makeAutoInvestment(type, obj, data, user) {
                                 var recipientsType = "user", contactBody = {
                                     contact_methods: ["Email"],
                                     data: {
-                                        subject: "Cofundie Sponsorship Confirmation !!", message: "Congratulations " + (user.full_name || user.first_name || "") + "!"
+                                        subject: "[SAMPLE_COMPANY] Sponsorship Confirmation !!", message: "Congratulations " + (user.full_name || user.first_name || "") + "!"
                                             + "\n\nYou just became a Sponsor in 1 of our projects!\n\n"
                                             
                                             // + "Visit Your Dashboard (using the link below) to view Your Sponsorship in Real Estate!\n\n"
-                                            // + "https://app.cofundie.com\n\n"
+                                            // + "https://app.[SAMPLE_COMPANY].com\n\n"
 
                                             + "Here are your Sponsorship Details ..\n\n"
                                             + "Deal Name: " + ((investmentDetails || {}).deal_name || "") + "\n"
@@ -387,7 +387,7 @@ async function makeAutoInvestment(type, obj, data, user) {
                                             + "Bank: Stanbic Bank Ghana ltd \n"
                                             + "Branch: Stanbic Heights Branch \n\n"
                                             
-                                            + "Account Name: Cofundie Investment Technologies \n\n"
+                                            + "Account Name: [SAMPLE_COMPANY] Investment Technologies \n\n"
 
                                             + "USD - 9040008579002 \n"
                                             + "GHS - 9040008578596 \n"
@@ -401,7 +401,7 @@ async function makeAutoInvestment(type, obj, data, user) {
                                             + "Bank: Zenith Bank PLC \n"
                                             + "Branch: Warehouse II Apapa Lagos \n\n"
 
-                                            + "Account Name: Cofundie Investment Technologies \n\n"
+                                            + "Account Name: [SAMPLE_COMPANY] Investment Technologies \n\n"
 
                                             + "USD - 5071190647 \n"
                                             + "NGN - 1016638074 \n"
@@ -414,10 +414,10 @@ async function makeAutoInvestment(type, obj, data, user) {
 
                                             + "Till Number: 976593 \n"
                                             + "Phone Number: 0509772406 \n"
-                                            + "Account Name: Cofundie Investment Technologies \n\n"
+                                            + "Account Name: [SAMPLE_COMPANY] Investment Technologies \n\n"
                                             
                                             + "Vodafone Users - Dial *110#; Choose \"Make Payments\"; Select \"Buy goods\"; Choose 1 to Enter Till number (976593); "
-                                            + "Enter the Amount, then the Name of Project as the reference; Confirm the Account name (Cofundie Investment Technologies); "
+                                            + "Enter the Amount, then the Name of Project as the reference; Confirm the Account name ([SAMPLE_COMPANY] Investment Technologies); "
                                             + "Enter your pin to confirm and complete the transaction. \n\n"
 
                                             + "Non-Vodafone Users - Perform a normal mobile money transfer to Vodafone Mobile Money number 0509772406 \n\n"
@@ -432,16 +432,16 @@ async function makeAutoInvestment(type, obj, data, user) {
                                             + "3. Remember to use the Deal name as the reference. \n\n"
                                             + "4. You will be issued a payment confirmation notification at the bank. \n\n"
 
-                                            + "5. Send the following information to the email invest@cofundie.com: \n\n"
+                                            + "5. Send the following information to the email invest@[SAMPLE_COMPANY].com: \n\n"
                                             + "- Full Name \n"
-                                            + "- Email Address (same email used for your cofundie.com account) \n"
+                                            + "- Email Address (same email used for your [SAMPLE_COMPANY].com account) \n"
                                             + "- Phone Number \n\n"
                                             + "6. Attach a clear image of the payment confirmation slip (or screenshot). \n\n"
 
-                                            + "7. You will receive an email immediately your payment is confirmed and your Cofundie dashboard will be automatically updated to reflect your sponsorship. \n\n" 
+                                            + "7. You will receive an email immediately your payment is confirmed and your [SAMPLE_COMPANY] dashboard will be automatically updated to reflect your sponsorship. \n\n" 
                                             + "8. Please give 5 working days for the payment to be confirmed.\n\n\n"
                                             
-                                            + "NOTE: If you have any questions or complaints please send an email to support@cofundie.com or Call / WhatsApp +233 24 014 3392",
+                                            + "NOTE: If you have any questions or complaints please send an email to support@[SAMPLE_COMPANY].com or Call / WhatsApp +233 24 014 3392",
 
                                         extra: { autoEnum: "User" }
                                     }
@@ -459,7 +459,7 @@ async function makeAutoInvestment(type, obj, data, user) {
                     resolve({
                         code: 200, resultData: {
                             success: true, message: "INVESTMENT SUCCESSFUL", data: {
-                                redirectURL: "https://app.cofundie.com/app/dashboard",
+                                redirectURL: "https://app.[SAMPLE_COMPANY].com/app/dashboard",
                                 callbackURL: baseUrl + "api/autofinance/autopay/confirmation/" + source,
                                 transaction: { transaction_id: investmentData["transaction_id"], investment_id: investmentData["_id"] }
                             }

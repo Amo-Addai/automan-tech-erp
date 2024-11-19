@@ -246,9 +246,9 @@ async function confirmAutoPaymentForAutoInvestment(type, data, extra) {
                     var recipientsType = "user", contactBody = {
                         contact_methods: ["Email"],
                         data: {
-                            subject: "Cofundie Sponsorship Payment Confirmation !!", message: "Congratulations " + (user.full_name || user.first_name || "") + "!!"
+                            subject: "[SAMPLE_COMPANY] Sponsorship Payment Confirmation !!", message: "Congratulations " + (user.full_name || user.first_name || "") + "!!"
                                 + "\n\nYou just became a Sponsor in 1 of our projects!.\n\nVisit Your Dashboard (using the link below) to view Your Sponsorship in Real Estate!!\n\n"
-                                + "https://app.cofundie.com",
+                                + "https://app.[SAMPLE_COMPANY].com",
                             extra: { autoEnum: "User" }
                         }
                     }; // THESE MIGHT BE RECIPIENT OBJECTS / MIGHT JUST BE IDs

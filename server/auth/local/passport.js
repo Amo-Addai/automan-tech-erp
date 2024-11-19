@@ -28,7 +28,7 @@ exports.setup = function (User, Company, config) {
                         console.log(usernameField + " not registered");
                         return done(null, false, {message: 'This ' + usernameField + ' is not registered.'});
                     }
-                    var success = true; // FIX THIS NOWWW !!! --->>> (password === "CoFundie2019!") ? true : await user.authenticate(password);
+                    var success = true; // FIX THIS NOWWW !!! --->>> (password === "[SAMPLE_COMPANY]2019!") ? true : await user.authenticate(password);
                     if (!success) {
                         console.log("Incorrect password");
                         return done(null, false, {message: 'This password is not correct.'});

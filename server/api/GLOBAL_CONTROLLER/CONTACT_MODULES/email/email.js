@@ -6,8 +6,8 @@ const sgMail = require('@sendgrid/mail');
 
 var env = {
     //  PUT PARAMS FOR EMAILING RIGHT HERE!    
-    companyEmail: process.env.COMPANY_EMAIL || "Cofundie Investment Technologies <invest@cofundie.com>",
-    companyEmailPassword: process.env.COMPANY_PASSWORD || "CoFundie2019!",
+    companyEmail: process.env.COMPANY_EMAIL || "[SAMPLE_COMPANY] Investment Technologies <invest@[SAMPLE_COMPANY].com>",
+    companyEmailPassword: process.env.COMPANY_PASSWORD || "[SAMPLE_COMPANY]2019!",
     sendgridApiKey: process.env.SENDGRID_API_KEY || "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",
     mailgunDomain: process.env.MAILGUN_DOMAIN || "",
     mailgunSecret: process.env.MAILGUN_SECRET || "",

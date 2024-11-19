@@ -67,8 +67,8 @@ server.listen(config.port, function () {
 // "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" - RUN MONGODB INSTANCE
 // "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" - RUN MONGODB SHELL / CLI
 // 
-// cd OneDrive\Desktop\WORK\COFUNDIE\CoFundie\API_DASHBOARD\server\views\dashboard\react-material-admin
-// cd OneDrive\Desktop\WORK\COFUNDIE\CoFundie\API_DASHBOARD
+// cd OneDrive\Desktop\WORK\[SAMPLE_COMPANY]\[SAMPLE_COMPANY]\API_DASHBOARD\server\views\dashboard\react-material-admin
+// cd OneDrive\Desktop\WORK\[SAMPLE_COMPANY]\[SAMPLE_COMPANY]\API_DASHBOARD
 
 // Expose app
 module.exports = app;

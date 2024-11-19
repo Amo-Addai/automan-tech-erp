@@ -43,8 +43,8 @@ async function sendUserAuth(user) {
                     recipientsType = "user", contactBody = {
                         contact_methods: ["Email"], // , "SMS"],
                         data: {
-                            subject: "Signup Confirmation", message: "Hello " + (user.full_name || user.first_name) + "!! Welcome to Cofundie Real Estate Investments, where Real Estate Investing is made Simple!"
-                                + "\n\nPlease confirm your registration, by clicking the following link below to verify your email address and activate your CoFundie account.\n\nGet ready to own some new Real Estate!!\n\n"
+                            subject: "Signup Confirmation", message: "Hello " + (user.full_name || user.first_name) + "!! Welcome to [SAMPLE_COMPANY] Real Estate Investments, where Real Estate Investing is made Simple!"
+                                + "\n\nPlease confirm your registration, by clicking the following link below to verify your email address and activate your [SAMPLE_COMPANY] account.\n\nGet ready to own some new Real Estate!!\n\n"
                                 + baseUrl + "auth/local/activate/" + user._id, // <- FIGURE OUT WHETHER TO USE /user._id OR ?email=user.email
                             extra: {
                                 autoEnum: "User", dataId: user._id
@@ -188,7 +188,7 @@ router.get('/activate/:userId', auth.isAuthenticationAllowed(authOption, false),
                         // var extraAuth = {}; // req.extraAuthenticationData; delete req.extraAuthenticationData;
                         // return handleAuthenticationResults(res, null, user, extraAuth, null, false);
 
-                        // INSTEAD, RE-DIRECT USER BACK TO THE DASHBOARD (NOT API) LINK -> https://app.cofundie.com/
+                        // INSTEAD, RE-DIRECT USER BACK TO THE DASHBOARD (NOT API) LINK -> https://app.[SAMPLE_COMPANY].com/
                         console.log("NOW, REDIRECTING BACK TO THE DASHBOARD'S LOGIN PAGE (or maybe straight to the Home Page ??)");
                         res.status(301).redirect(config.urls.dashboard); 
 
@@ -280,7 +280,7 @@ router.post('/reset/:pass', auth.isAuthenticationAllowed(authOption, true), auth
                                         recipientsType = "user", contactBody = {
                                             contact_methods: ["Email"],
                                             data: {
-                                                subject: "Cofundie Password Reset", message: "Hello " + (user.full_name || user.first_name) + "!!"
+                                                subject: "[SAMPLE_COMPANY] Password Reset", message: "Hello " + (user.full_name || user.first_name) + "!!"
                                                     + "\n\nPlease click the following link below to reset your password.\n\nGet ready to own some more Real Estate!!\n\n"
                                                     + baseUrl + "resetpassword?id=" + user._id, // <- FIGURE OUT WHETHER TO USE /user._id OR ?email=user.email
                                                 extra: { autoEnum: "User" }
@@ -313,7 +313,7 @@ router.post('/reset/:pass', auth.isAuthenticationAllowed(authOption, true), auth
                                     // var extraAuth = {}; // req.extraAuthenticationData; delete req.extraAuthenticationData;
                                     // return handleAuthenticationResults(res, null, user, extraAuth, null, false);
 
-                                    // INSTEAD, RE-DIRECT USER BACK TO THE DASHBOARD (NOT API) LINK -> https://app.cofundie.com/
+                                    // INSTEAD, RE-DIRECT USER BACK TO THE DASHBOARD (NOT API) LINK -> https://app.[SAMPLE_COMPANY].com/
                                     console.log("NOW, REDIRECTING BACK TO THE DASHBOARD'S LOGIN PAGE (or maybe straight to the Home Page ??)");
                                     
                                     // THIS REDIRECT BELOW DOESN'T WORK, COZ THIS IS A JSON REQUEST (FIX IT !!!)

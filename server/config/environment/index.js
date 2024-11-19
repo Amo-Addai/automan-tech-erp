@@ -6,7 +6,6 @@ var path = require('path');
 // // WELL APPARENTLY, THIS SHIT'S ACTUALLY WORKING SO... .... HMMMMM ..
 // var funct = require('../../functions'); 
 // var settings = funct.settings;
-// console.log(settings.getValue("hahahaha"));
 
 function requiredProcessEnv(name) {
     if (!process.env[name]) {
@@ -32,8 +31,8 @@ var all = {
     port: process.env.PORT || 8080,
 
     urls: {
-        website: 'https://www.cofundie.com/',
-        dashboard: 'https://app.cofundie.com/',
+        website: 'https://www.[SAMPLE_COMPANY].com/',
+        dashboard: 'https://app.[SAMPLE_COMPANY].com/',
 
     },
 
