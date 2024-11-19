@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1274px" viewBox="0 0 1440 1274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="1274"></rect>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-1-Copy">
+            <g id="Group">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 426.000000)">
+                        <path d="M1.52482168,173.160264 C28.8507639,182.165628 180.455706,198.457998 255.486259,173.160264 C334.997502,150.634422 481.326418,13.872406 641.271262,2 C838.144106,-9.21461577 1032.33776,28.6893823 1088.77273,363.034201 C1133.68646,721.252606 1052.72502,824.583724 1016.87262,848 C975.194141,846.176946 636.236601,844.159735 0,841.948366 C3.67795683,433.83901 4.18623072,210.909642 1.52482168,173.160264 Z" id="Path-2" fill="#F4F9FF"></path>
+                        <path d="M642.757409,847.63983 C622.82315,811.156691 538.592742,300.864142 843.74436,208.077901 C1132.68914,123.614445 1321.18148,290.400144 1439.14693,266.293084 C1440.28436,316.914675 1440.28436,510.696924 1439.14693,847.63983 C931.063036,848.120057 665.599864,848.120057 642.757409,847.63983 Z" id="Path-3" fill="#F6F8FF" style="mix-blend-mode: multiply;"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

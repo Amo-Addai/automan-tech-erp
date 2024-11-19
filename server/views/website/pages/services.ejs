@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<% include ../partials/head %>
+<body>
+    <% include ../partials/header %>
+    <!-- MAIN CONTENT STARTS RIGHT HERE .. -->
+    
+    
+    <!--/ Intro Single star /-->
+    <section class="intro-single">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-lg-8">
+              <div class="title-single-box">
+                <h1 class="title-single">The Process</h1>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-4">
+              <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item">
+                    <a href="index">Home</a>
+                  </li>
+                  <li class="breadcrumb-item active" aria-current="page">
+                    How it Works
+                  </li>
+                </ol>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--/ Intro Single End /-->
+    
+    
+      <!--/ Step Star /-->
+      <section class="section-agents section-t8">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="title-wrap d-flex justify-content-between">
+                <div class="title-box">
+                  <h2 class="title-a">1. <%= content.steps.one.title %></h2>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <p><%= content.steps.one.text %></p>
+          </div>
+        </div>
+      </section>
+      <!--/ Step End /-->
+      
+      <!--/ Step Star /-->
+      <section class="section-agents section-t8">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="title-wrap d-flex justify-content-between">
+                <div class="title-box">
+                  <h2 class="title-a">2. <%= content.steps.two.title %></h2>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <p><%= content.steps.two.text %></p>
+          </div>
+        </div>
+      </section>
+      <!--/ Step End /-->
+      
+      <!--/ Step Star /-->
+      <section class="section-agents section-t8">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="title-wrap d-flex justify-content-between">
+                <div class="title-box">
+                  <h2 class="title-a">3. <%= content.steps.three.title %></h2>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <p><%= content.steps.three.text %></p>
+          </div>
+        </div>
+      </section>
+      <!--/ Step End /-->
+      
+
+    <!-- MAIN CONTENT ENDS RIGHT HERE .. -->
+    <% include ../partials/footer %>
+</body>
+</html>

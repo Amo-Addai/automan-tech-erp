@@ -1,0 +1,85 @@
+image: python:2.7
+
+before_script:
+  - echo "deb http://packages.cloud.google.com/apt cloud-sdk-jessie main" | tee /etc/apt/sources.list.d/google-cloud-sdk.list
+  - curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add -
+  - apt-get update
+  - apt-get -qq -y install google-cloud-sdk
+
+after_script:
+  - rm /tmp/$CI_PIPELINE_ID.json
+
+deploy:
+  stage: deploy
+  environment: Production
+  only:
+    - master
+  script:
+    - echo $DEPLOY_KEY_FILE_PRODUCTION > /tmp/$CI_PIPELINE_ID.json
+    - gcloud auth activate-service-account --key-file /tmp/$CI_PIPELINE_ID.json
+    - gcloud --quiet --project $PROJECT_ID_PRODUCTION app deploy
+
+# 
+
+runtime: nodejs10
+
+instance_class: F2
+
+env_variables:
+  BUCKET_NAME: "example-gcs-bucket"
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto
+
+#
+
+image: node:latest
+
+before_script:
+  - echo "deb http://packages.cloud.google.com/apt cloud-sdk-jessie main" | tee /etc/apt/sources.list.d/google-cloud-sdk.list
+  - curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add -
+  - apt-get update
+  - apt-get -qq -y install google-cloud-sdk
+
+after_script:
+  - rm /tmp/$CI_PIPELINE_ID.json
+
+stages:
+  - build
+  - test
+  - deploy
+
+cache:
+  paths:
+    - node_modules/
+
+build:
+  stage: build
+  script:
+    - npm install
+  artifacts:
+    paths:
+      - node_modules/
+
+test:
+  stage: test
+  script: npm test
+
+
+deploy:
+  stage: deploy
+  environment: Production
+  only:
+    - master
+  script:
+    - echo $DEPLOY_KEY_FILE_PRODUCTION > /tmp/$CI_PIPELINE_ID.json
+    - gcloud auth activate-service-account --key-file /tmp/$CI_PIPELINE_ID.json
+    - gcloud --quiet --project $PROJECT_ID_PRODUCTION app deploy
+
+

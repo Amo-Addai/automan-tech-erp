@@ -1,0 +1,19 @@
+{
+  "name": "at",
+  "version": "1.0.0",
+  "description": "Ussd Application using Africastalking ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Eugene Musebe",
+  "license": "MIT",
+  "dependencies": {
+    "africastalking": "^0.4.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "pusher": "^2.2.0"
+  }
+}

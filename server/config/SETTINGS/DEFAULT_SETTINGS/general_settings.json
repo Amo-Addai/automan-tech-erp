@@ -1,0 +1,1839 @@
+{
+  "AUTOMANSettings": {
+    "AUTOMANFunctionality": true,
+    "userTypeOptions": [
+      "Investor",
+      "Property Developer",
+      "Employee",
+      "Prospect"
+    ],
+    "userTypeOptionsDefault": "Investor",
+    "userGenderOptions": [
+      "None",
+      "Male",
+      "Female",
+      "Other",
+      "Prefer Not To Say"
+    ],
+    "userGenderOptionsDefault": "None",
+    "userNationalityOptions": [
+      "Ghana",
+      "Nigeria",
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Ivory Coast",
+      "Kenya",
+      "South Africa",
+      "Rwanda",
+      "Tanzania",
+      "Burundi",
+      "Congo",
+      "Cape Verde",    
+      "Gambia",
+      "Guinea",
+      "Liberia",
+      "Malawi",
+      "Mozambique",
+      "Sierra Leone",
+      "Sao Tome and Principe",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe",
+      "Other"
+    ],
+    "userNationalityOptionsDefault": "Other",
+    "userIdentificationOptions": [
+      "Passport",
+      "National ID",
+      "Voter's ID",
+      "SSNIT",
+      "TIN",
+      "Driver's License",
+      "Health Insurance ID",
+      "Bank Verification Number"
+    ],
+    "userIdentificationOptionsDefault": "Passport",
+    "recipientsTypeOptions": [
+      "Users",
+      "Investors",
+      "Property Developers",
+      "Employees",
+      "Prospects"
+    ],
+    "recipientsTypeOptionsDefault": "Users",
+    "contactMethodOptions": [
+      "SMS",
+      "Email",
+      "Notification",
+      "USSD"
+    ],
+    "contactMethodOptionsDefault": "Email",
+    "notificationTypeOptions": [
+      "Global",
+      "Multiple",
+      "Single"
+    ],
+    "notificationTypeOptionsDefault": "Global",
+    "messageTypeOptions": [
+      "Request",
+      "Enquiry",
+      "Complaint",
+      "Testimonial",
+      "Chat"
+    ],
+    "messageTypeOptionsDefault": "Request",
+    "proposalTypeOptions": [
+      "Property Development"
+    ],
+    "proposalTypeOptionsDefault": "Property Development",
+    "projectTypeOptions": [
+      "Building"
+    ],
+    "projectTypeOptionsDefault": "Building",
+    "projectStageOptions": [
+      "Initiation",
+      "Planning",
+      "Execution",
+      "Closing"
+    ],
+    "projectStageOptionsDefault": "Initiation",
+    "userDataDefault": {
+      "type": "Investor",
+      "subscribed": true,
+      "agreed": false,
+      "understood": false,
+      "activated": false,
+      "verified": false,
+      "Investor": {
+        "type": "Average",
+        "accredited": false,
+        "sophisticated": false
+      },
+      "Property Developer": {
+        "type": ""
+      },
+      "Employee": {
+        "position": "",
+        "type": ""
+      },
+      "Prospect": {
+        "type": "",
+        "data": {
+          "contact_method": "Email",
+          "interests": {
+            "properties": []
+          },
+          "subscribed": true
+        }
+      },
+      "KYC": {
+        "Passport": {
+          "id": ""
+        },
+        "National ID": {
+          "id": ""
+        },
+        "Voter's ID": {
+          "id": ""
+        },
+        "SSNIT": {
+          "id": ""
+        },
+        "TIN": {
+          "id": ""
+        },
+        "Driver's License": {
+          "id": ""
+        },
+        "Health Insurance ID": {
+          "id": ""
+        },
+        "Bank Verification Number": {
+          "id": ""
+        }
+      }
+    },
+    "proposalDataDefault": {
+      "contracts": []
+    },
+    "projectDataDefault": {
+      "funding": {
+        "funds": {
+          "total": 0,
+          "currency": "USD",
+          "symbol": "$"
+        }
+      }
+    },
+    "messageDataDefault": {
+      "senderType": "User"
+    }
+  },
+  "AUTO_SECURITYSettings": {
+    "AUTO_SECURITYFunctionality": true,
+    "userRoleOptions": [
+      "User",
+      "Admin",
+      "Super Admin"
+    ],
+    "userRoleOptionsDefault": "User",
+    "securityLevelOptions": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "securityLevelOptionsDefault": 0
+  },
+  "AUTO_WEBSITESettings": {
+    "AUTO_SECURITYFunctionality": true,
+    "prospectTypeOptions": [
+      "Individual",
+      "Business",
+      "Government"
+    ],
+    "prospectTypeOptionsDefault": "Individual",
+    "postDataDefault": {
+      "channels": {},
+      "schedule": {},
+      "images": []
+    },
+    "prospectDataDefault": {
+      "interests": {
+        "properties": []
+      },
+      "subscribed": true
+    },
+    "AutoContentSettings": {
+      "AutoContentFunctionality": true,
+      "content": {}
+    }
+  },
+  "AUTO_PAYSettings": {
+    "AUTO_PAYFunctionality": true,
+    "paymentMethodOptions": [
+      "Card Payment",
+      "Bank Transfer",
+      "Mobile Money",
+      "Cash Deposit"
+    ],
+    "paymentMethodOptionsDefault": "Card Payment",
+    "accountTypeOptions": [
+      "Bank Account",
+      "Mobile Money"
+    ],
+    "accountTypeOptionsDefault": "Bank Account",
+    "accountDataDefault": {
+      "ownerType": "User",
+      "type": "",
+      "Bank Account": {
+        "name": "",
+        "number": "",
+        "cvc": ""
+      },
+      "Mobile Money": {
+        "name": "",
+        "number": "",
+        "pin": ""
+      }
+    },
+    "paymentDataDefault": {
+      "process": "",
+      "provider": "",
+      "method": "",
+      "payment_amount": {
+        "price": 0,
+        "total_price": 0,
+        "total_amount": 0,
+        "currency": "USD",
+        "symbol": "$",
+        "country": "United States",
+        "country_symbol": "US"
+      },
+      "payment_confirmed": false,
+      "transaction": {
+          "transaction_id": "",
+          "transaction_data": {}
+      }
+    }
+  },
+  "AUTO_INVESTMENTSettings": {
+    "AUTO_INVESTMENTFunctionality": true,
+    "userTypeOptions": [
+      "Investor",
+      "Property Developer",
+      "Employee",
+      "Prospect"
+    ],
+    "userTypeOptionsDefault": "Investor",
+    "recipientsTypeOptions": [
+      "Users",
+      "Investors",
+      "Property Developers",
+      "Employees",
+      "Prospects"
+    ],
+    "recipientsTypeOptionsDefault": "Users",
+    "portfolioTypeOptions": [
+      "Personal",
+      "Real Estate Investment Trust"
+    ],
+    "portfolioTypeOptionsDefault": "Real Estate Investment Trust",
+    "assetTypeOptions": [
+      "Special Purpose Vehicle",
+      "Property",
+      "Stock",
+      "Forex",
+      "Bond",
+      "Cryptocurrency",
+      "Commodity"
+    ],
+    "assetTypeOptionsDefault": "Special Purpose Vehicle",
+    "capitalStructureOptions": [
+      "Equity",
+      "Debt",
+      "Hybrid"
+    ],
+    "capitalStructureOptionsDefault": "Debt",
+    "propertyTypeOptions": [
+      "Residential",
+      "Multi-Family",
+      "Single-Family",
+      "Commercial",
+      "Industrial",
+      "Land"
+    ],
+    "propertyTypeOptionsDefault": "Residential",
+    "propertyStageOptions": [
+      "Initiation",
+      "Pre-purchase",
+      "Concept",
+      "Purchase",
+      "Town Planning",
+      "Documentation",
+      "Pre-construction",
+      "Construction",
+      "Completion",
+      "Ready",
+      "Sold"
+    ],
+    "propertyStageOptionsDefault": "Initiation",
+    "propertyStatusOptions": [
+      "Analysis / Due-Diligence",
+      "Receiving Investments",
+      "Receiving Returns"
+    ],
+    "propertyStatusOptionsDefault": "Analysis",
+    "propertyInvestmentStrategyOptions": [
+      "Core",
+      "Value-Added",
+      "Opportunistic"
+    ],
+    "propertyInvestmentStrategyOptionsDefault": "Value-Added",
+    "stockNameOptions": [
+      "AADS",
+      "ACCESS",
+      "ACI",
+      "ADB",
+      "AGA",
+      "ALW",
+      "AYRTN",
+      "BOPP",
+      "CAL",
+      "CLYD",
+      "CMLT",
+      "CPC",
+      "EGH",
+      "EGL",
+      "ETI",
+      "FML",
+      "GCB",
+      "GGBL",
+      "GLD",
+      "GOIL",
+      "GSR",
+      "GWEB",
+      "HFC",
+      "HORDS",
+      "IIL",
+      "MAC",
+      "MLC",
+      "MMH",
+      "PBC",
+      "PKL",
+      "PZC",
+      "SAMBA",
+      "SCB",
+      "SCBPREF",
+      "SIC",
+      "SOGEGH",
+      "SPL",
+      "SWL",
+      "TBL",
+      "TLW",
+      "TOTAL",
+      "TRANSOL",
+      "UNIL"
+    ],
+    "stockNameOptionsDefault": "ACCESS",
+    "waitlistDataDefault": {
+      "Prospects": [],
+      "Investors": []
+    },
+    "investmentDataDefault": {
+      "shares": {
+        "number": 0,
+        "share_price": {
+          "price": 0,
+          "total": 0,
+          "currency": "USD",
+          "symbol": "$",
+          "country": "United States",
+          "country_symbol": "US",
+          "countries": [],
+          "payment_currencies": []
+        },
+        "available": 0,
+        "projected_return": {
+          "total_return": 0,
+          "total_returns": 0,
+          "currency": "USD",
+          "symbol": "$",
+          "country": "United States",
+          "country_symbol": "US"
+        }
+      },
+      "payment": {
+        "process": "",
+        "provider": "",
+        "method": "",
+        "payment_amount": {
+          "price": 0,
+          "total_price": 0,
+          "total_amount": 0,
+          "currency": "USD",
+          "symbol": "$",
+          "country": "United States",
+          "country_symbol": "US"
+        },
+        "payment_confirmed": false,
+        "transaction": {
+            "transaction_id": "",
+            "transaction_data": {}
+        }
+      },
+      "investment_analysis": {
+        "yield": 0,
+        "cmult": 0,
+        "irr": 0,
+        "npv": 0,
+        "ltv": 0,
+        "targets": {
+          "preferred_return": 0
+        },
+        "period": {
+          "duration": 5,
+          "measurement": "years"
+        }
+      },
+      "valuation": {
+        "value": 0,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "returns": {}
+    },
+    "portfolioDataDefault": {},
+    "assetDataDefault": {},
+    "stockDataDefault": {
+      "symbol": ""
+    },
+    "propertyDataDefault": {
+      "property_details": {
+        "name": {
+          "full_name": "",
+          "nickname": ""
+        },
+        "type": {
+          "type": "",
+          "sub_type": ""
+        },
+        "shares": {
+          "total": 100,
+          "available": 100,
+          "share_price": {
+            "price": 0,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        },
+        "parameters": {
+          "materials": {
+            "primary": ""
+          },
+          "area": {
+            "value": 0,
+            "unit": ""
+          },
+          "beds": 0,
+          "baths": 0,
+          "garages": 0,
+          "amenities": []
+        },
+        "location": {
+          "country": "",
+          "region": "",
+          "city": "",
+          "town": "",
+          "street": "",
+          "number": "",
+          "address": "",
+          "zip": "",
+          "postal": "",
+          "geolocation": {
+            "lat": 0,
+            "lng": 0
+          }
+        },
+        "content": {
+          "images": {
+            "pictures": [],
+            "slides": [],
+            "plans": []
+          },
+          "videos": {},
+          "documents": {}
+        }
+      },
+      "investment_analysis": {
+        "yield": 0,
+        "cmult": 0,
+        "irr": 0,
+        "npv": 0,
+        "ltv": 0,
+        "targets": {
+          "preferred_return": 0
+        },
+        "period": {
+          "duration": 5,
+          "measurement": "years"
+        }
+      },
+      "valuation": {
+        "value": 0,
+        "currency": "USD",
+        "symbol": "$"
+      },
+      "returns": {}
+    }
+  },
+  "AUTO_RESEARCHSettings": {
+    "AUTO_RESEARCHFunctionality": false,
+    "userTypeOptions": [
+      "Customer",
+      "Respondent",
+      "Prospect"
+    ],
+    "userTypeOptionsDefault": "Customer",
+    "recipientsTypeOptions": [
+      "Users",
+      "Customers",
+      "Respondents",
+      "Prospects"
+    ],
+    "recipientsTypeOptionsDefault": "Users",
+    "researchTypeOptions": [
+      "Quick",
+      "Project"
+    ],
+    "researchTypeOptionsDefault": "Project",
+    "researchStageOptions": [
+      "Initiation",
+      "Execution",
+      "Closing"
+    ],
+    "researchStageOptionsDefault": "Initiation",
+    "researchMethodOptions": [
+      "Survey",
+      "Social Media",
+      "Web",
+      "Field",
+      "Interview",
+      "Focus Groups"
+    ],
+    "researchMethodOptionsDefault": "Survey",
+    "segmentationDataDefault": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {},
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferencesDataDefault": {
+      "interests": [],
+      "contact_methods": [],
+      "extra_contacts": {
+        "email": [],
+        "phone": []
+      }
+    },
+    "researchDesignDataDefault": {
+      "problem": "",
+      "objectives": {},
+      "budget": 0.00,
+      "duration": 0,
+      "segmentation": {
+        "segments": [],
+        "demographics": {},
+        "geographics": {},
+        "psychographics": {},
+        "behaviourial": {}
+      },
+      "methods": {
+        "methods": [],
+        "Survey": {
+          "forms": [
+            {
+              "id": "",
+              "name": "",
+              "message": "",
+              "source": "Typeform",
+              "language": "English",
+              "link": {
+                "link_api": "",
+                "link_page": ""
+              },
+              "questions": [
+                {
+                  "id": "",
+                  "question": "",
+                  "questionType": "",
+                  "acceptedAnswerType": "",
+                  "reference": ""
+                }
+              ],
+              "validations": {},
+              "formData": {}
+            }
+          ]
+        },
+        "Social Media": {},
+        "Web": {},
+        "Field": {},
+        "Interview": {},
+        "Focus Groups": {}
+      }
+    },
+    "researchDataDataDefault": {
+      "Survey": {
+        "forms": [
+          {
+            "id": "",
+            "name": "",
+            "message": "",
+            "source": "Typeform",
+            "language": "English",
+            "link": {
+              "link_api": "",
+              "link_page": ""
+            },
+            "questions": [
+              {
+                "id": "",
+                "question": "",
+                "questionType": "",
+                "acceptedAnswerType": "",
+                "reference": ""
+              }
+            ],
+            "validations": {},
+            "responses": [
+              {
+                "respondent": {},
+                "metadata": {},
+                "answers": [
+                  {
+                    "field": {
+                      "id": "",
+                      "type": "",
+                      "ref": ""
+                    },
+                    "answer": {
+                      "type": "",
+                      "value": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "responsesData": {}
+          }
+        ]
+      },
+      "Social Media": {},
+      "Web": {},
+      "Field": {},
+      "Interview": {},
+      "Focus Groups": {}
+    }
+  },
+  "AUTO_AUDITINGSettings": {
+    "AUTO_AUDITINGFunctionality": false,
+    "autoaudits": {
+      "autoauditOptions": [
+        "Session Tracking",
+        "Stock Market Monitoring",
+        "Geo-Spatial Monitoring",
+        "Network Connection Tracking",
+        "Intrusion Detection",
+        "Vulnerability Scanning",
+        "System Auditing",
+        "AntiVirus Scanning"
+      ],
+      "Internal": {
+        "autoauditOptions": [
+          "Session Tracking",
+          "Stock Market Monitoring",
+          "Geo-Spatial Monitoring"
+        ],
+        "Session Tracking": {
+          "autoeventOptions": [
+            "User Multiple Logins"
+          ]
+        },
+        "Stock Market Monitoring": {
+          "autoeventOptions": [
+            "Up-trending (Bull) Market",
+            "Down-trending (Bear) Market"
+          ]
+        },
+        "Geo-Spatial Monitoring": {
+          "autoeventOptions": [
+            "Irregular User Location"
+          ]
+        }
+      },
+      "External": {
+        "autoauditOptions": [
+          "Network Connection Tracking",
+          "Intrusion Detection",
+          "Vulnerability Scanning",
+          "System Auditing",
+          "AntiVirus Scanning"
+        ],
+        "Network Connection Tracking": {
+          "autoeventOptions": [
+            "Network Multiple Connections"
+          ]
+        },
+        "Intrusion Detection": {
+          "autoeventOptions": [
+            "Intrusion Detected"
+          ]
+        },
+        "Vulnerability Scanning": {
+          "autoeventOptions": [
+            "Vulnerability Detected"
+          ]
+        },
+        "System Auditing": {
+          "autoeventOptions": [
+            "System Failure"
+          ]
+        },
+        "AntiVirus Scanning": {
+          "autoeventOptions": [
+            "Virus Detected"
+          ]
+        }
+      }
+    },
+    "autoauditTypeOptions": [
+      "data",
+      "file"
+    ],
+    "autoauditTypeOptionsDefault": "data",
+    "autoauditSourceTypeOptions": [
+      "Internal",
+      "External"
+    ],
+    "autoauditSourceTypeOptionsDefault": "Internal",
+    "autoauditSourceOptions": [
+      "Auto-API",
+      "Bro",
+      "Snort",
+      "Ossec",
+      "Kismet",
+      "Lynis",
+      "Nikto"
+    ],
+    "autoauditSourceOptionsDefault": "Auto-API",
+    "autoauditEmergencyLevelOptions": [
+      "default",
+      "low",
+      "medium",
+      "high"
+    ],
+    "autoauditEmergencyLevelOptionsDefault": "default",
+    "handlerTypeOptions": [
+      "Real Time",
+      "Triggered"
+    ],
+    "handlerTypeOptionsDefault": "Real Time",
+    "handlerMethodOptions": [
+      "Regular Analysis",
+      "Correlation Analysis"
+    ],
+    "handlerMethodOptionsDefault": "Regular Analysis",
+    "recipientsTypeOptions": [
+      "Users"
+    ],
+    "recipientsTypeOptionsDefault": "Users",
+    "contactMethodOptions": [
+      "SMS",
+      "Email",
+      "Notification"
+    ],
+    "contactMethodOptionsDefault": "Notification",
+    "notificationTypeOptions": [
+      "Global",
+      "Multiple",
+      "Single"
+    ],
+    "notificationTypeOptionsDefault": "Global",
+    "InternalAUTO_AUDITINGFunctionality": false,
+    "InternalAUTO_AUDITINGSettings": {
+      "Session Tracking": {
+        "active": false,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Auto-API"
+        ],
+        "autologFunctionality": false,
+        "autologSettings": {
+          "name": "Default AutoLog name",
+          "details": "Default AutoLog details",
+          "type": "data",
+          "data": {
+            "user": {
+              "_id": "Default ID",
+              "full_name": "Default Full Name"
+            },
+            "access_token": {
+              "token": "Default Token",
+              "expiresInMinutes": 0
+            },
+            "login": true,
+            "logout": false,
+            "timestamp": ""
+          }
+        },
+        "events": {
+          "User Multiple Logins": {
+            "criteria": "Same user logging into system more than once from the same IOT device",
+            "emergencyLevelSettings": {
+              "number": 5,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "Default AutoEvent name",
+              "details": "Default AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "user": {
+                  "_id": "Default ID",
+                  "full_name": "Default Full Name"
+                },
+                "logins": 2,
+                "access_tokens": [
+                  {
+                    "token": "Default Token",
+                    "expiresInMinutes": 0
+                  }
+                ],
+                "timestamps": [
+                  ""
+                ]
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Blacklist user's access token",
+                "Delete user from System's Database"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "Default Subject",
+              "message": "Default Message",
+              "extraData": {
+                "user": {
+                  "_id": "Default ID",
+                  "full_name": "Default Full Name"
+                }
+              },
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "Stock Market Monitoring": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Auto-API"
+        ],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "Default AutoLog name",
+          "details": "Default AutoLog details",
+          "type": "data",
+          "data": {
+            "stock": {
+              "_id": "Default ID",
+              "stock_name": "Default Stock Name",
+              "price": "Default Price"
+            },
+            "timestamp": ""
+          }
+        },
+        "events": {
+          "Up-trending (Bull) Market": {
+            "criteria": "Down-trend moving into an Up-trend (Stock price now increasing)",
+            "emergencyLevelSettings": {
+              "number": 5,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "Default AutoEvent name",
+              "details": "Default AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "stock": {
+                  "_id": "Default ID",
+                  "stock_name": "Default Stock Name",
+                  "price": "Default Price"
+                },
+                "timestamp": ""
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "CALL",
+                "PUT",
+                "SELL",
+                "SHORTS"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "Default Subject",
+              "message": "Default Message",
+              "extraData": {
+                "user": {
+                  "_id": "Default ID",
+                  "full_name": "Default Full Name"
+                }
+              },
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          },
+          "Down-trending (Bear) Market": {
+            "criteria": "Up-trend moving into a Down-trend (Stock price now reducing)",
+            "emergencyLevelSettings": {
+              "number": 5,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "Default AutoEvent name",
+              "details": "Default AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "stock": {
+                  "_id": "Default ID",
+                  "stock_name": "Default Stock Name",
+                  "price": "Default Price"
+                },
+                "timestamp": ""
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "CALL",
+                "PUT",
+                "SELL",
+                "SHORTS"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "Default Subject",
+              "message": "Default Message",
+              "extraData": {
+                "user": {
+                  "_id": "Default ID",
+                  "full_name": "Default Full Name"
+                }
+              },
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "Geo-Spatial Monitoring": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Auto-API"
+        ],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "Default AutoLog name",
+          "details": "Default AutoLog details",
+          "type": "data",
+          "data": {
+            "geo": {},
+            "timestamp": ""
+          }
+        },
+        "events": {
+          "Irregular User Location": {
+            "criteria": "Current User location is irregular as compared to Geo-Spatial Data",
+            "emergencyLevelSettings": {
+              "number": 5,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "Default AutoEvent name",
+              "details": "Default AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "geo": {},
+                "timestamp": ""
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Update user's true location"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "Default Subject",
+              "message": "Default Message",
+              "extraData": {
+                "user": {
+                  "_id": "Default ID",
+                  "full_name": "Default Full Name"
+                }
+              },
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      }
+    },
+    "ExternalAUTO_AUDITINGFunctionality": false,
+    "ExternalAUTO_AUDITINGSettings": {
+      "Network Connection Tracking": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Bro",
+          "Kismet"
+        ],
+        "autologFunctionality": false,
+        "autologSettings": {
+          "name": "NCT AutoLog name",
+          "details": "NCT AutoLog details",
+          "type": "data",
+          "data": {
+            "connection": {
+              "_id": "",
+              "orig_endpoint": {
+                "address": "",
+                "port": 0
+              },
+              "resp_endpoint": {
+                "address": "",
+                "port": 0
+              }
+            },
+            "protocol": "",
+            "timestamp": 0,
+            "sources": {
+              "Bro": {},
+              "Kismet": {}
+            }
+          }
+        },
+        "events": {
+          "Network Multiple Connections": {
+            "criteria": "NCT-NMC criteria",
+            "emergencyLevelSettings": {
+              "number": 10,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": false,
+            "autoeventSettings": {
+              "name": "NCT-NMC AutoEvent name",
+              "details": "NCT-NMC AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "connections": [
+                  {}
+                ],
+                "protocols": [
+                  ""
+                ],
+                "timestamps": [],
+                "sources": {
+                  "Bro": {},
+                  "Kismet": {}
+                }
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Vulnerability Scanning - Nikto",
+                "System Auditing - Lynis",
+                "AntiVirus Scanning",
+                "Network Connection Tracking - Bro",
+                "Network Connection Tracking - Kismet",
+                "Network Connection Tracking - Bro, Kismet",
+                "Intrusion Detection - Bro",
+                "Intrusion Detection - Snort",
+                "Intrusion Detection - Ossec",
+                "Intrusion Detection - Kismet",
+                "Intrusion Detection - Bro, Snort",
+                "Intrusion Detection - Bro, Ossec",
+                "Intrusion Detection - Bro, Kismet",
+                "Intrusion Detection - Snort, Ossec",
+                "Intrusion Detection - Snort, Kismet",
+                "Intrusion Detection - Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec",
+                "Intrusion Detection - Snort, Ossec, Kismet",
+                "Intrusion Detection - Bro, Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec, Kismet"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "NCT-NMC Subject",
+              "message": "NCT-NMC Message",
+              "extraData": {},
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "Intrusion Detection": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Bro",
+          "Snort",
+          "Ossec",
+          "Kismet"
+        ],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "ID AutoLog name",
+          "details": "ID AutoLog details",
+          "type": "data",
+          "data": {
+            "connection": {
+              "_id": "",
+              "orig_endpoint": {
+                "address": "",
+                "port": 0
+              },
+              "resp_endpoint": {
+                "address": "",
+                "port": 0
+              }
+            },
+            "ids": "",
+            "protocol": "",
+            "timestamp": 0,
+            "sources": {
+              "Bro": {
+                "notice": {
+                  "type": "",
+                  "message": "",
+                  "sub_message": ""
+                },
+                "detection_connection": {
+                  "src_addr": "",
+                  "dst_addr": "",
+                  "port": "",
+                  "status_code": ""
+                },
+                "peer": {
+                  "source": "",
+                  "description": ""
+                }
+              },
+              "Snort": {
+                "alert": {
+                  "type": "",
+                  "message": "",
+                  "priority": ""
+                }
+              },
+              "Ossec": {},
+              "Kismet": {}
+            }
+          }
+        },
+        "events": {
+          "Intrusion Detected": {
+            "criteria": "ID-ID criteria",
+            "emergencyLevelSettings": {
+              "number": 10,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "ID-ID AutoEvent name",
+              "details": "ID-ID AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "connection": {
+                  "_id": "",
+                  "orig_endpoint": {
+                    "address": "",
+                    "port": 0
+                  },
+                  "resp_endpoint": {
+                    "address": "",
+                    "port": 0
+                  }
+                },
+                "ids": "",
+                "protocol": "",
+                "timestamp": 0,
+                "sources": {
+                  "Bro": {
+                    "notice": {
+                      "type": "",
+                      "message": "",
+                      "sub_message": ""
+                    },
+                    "detection_connection": {
+                      "src_addr": "",
+                      "dst_addr": "",
+                      "port": "",
+                      "status_code": ""
+                    },
+                    "peer": {
+                      "source": "",
+                      "description": ""
+                    }
+                  },
+                  "Ossec": {},
+                  "Kismet": {}
+                }
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Vulnerability Scanning - Nikto",
+                "System Auditing - Lynis",
+                "AntiVirus Scanning",
+                "Network Connection Tracking - Bro",
+                "Network Connection Tracking - Kismet",
+                "Network Connection Tracking - Bro, Kismet",
+                "Intrusion Detection - Bro",
+                "Intrusion Detection - Snort",
+                "Intrusion Detection - Ossec",
+                "Intrusion Detection - Kismet",
+                "Intrusion Detection - Bro, Snort",
+                "Intrusion Detection - Bro, Ossec",
+                "Intrusion Detection - Bro, Kismet",
+                "Intrusion Detection - Snort, Ossec",
+                "Intrusion Detection - Snort, Kismet",
+                "Intrusion Detection - Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec",
+                "Intrusion Detection - Snort, Ossec, Kismet",
+                "Intrusion Detection - Bro, Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec, Kismet"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    "Network Connection Tracking - Bro"
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    "Network Connection Tracking - Bro"
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    "Network Connection Tracking - Bro"
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    "Network Connection Tracking - Bro"
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "ID-ID Subject",
+              "message": "ID-ID Message",
+              "extraData": {},
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "Vulnerability Scanning": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Nikto"
+        ],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "VS AutoLog name",
+          "details": "VS AutoLog details",
+          "type": "data",
+          "data": {
+            "host": {
+              "host_name": "",
+              "ip_addr": "",
+              "port": ""
+            },
+            "description": "",
+            "timestamp": 0,
+            "sources": {
+              "Nikto": {
+                "osvdbid": "",
+                "method": "",
+                "uri": ""
+              }
+            }
+          }
+        },
+        "events": {
+          "Vulnerability Detected": {
+            "criteria": "VS-VD criteria",
+            "emergencyLevelSettings": {
+              "number": 10,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "VS-VD AutoEvent name",
+              "details": "VS-VD AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {
+                "host": {
+                  "host_name": "",
+                  "ip_addr": "",
+                  "port": ""
+                },
+                "description": "",
+                "timestamp": 0,
+                "sources": {
+                  "Nikto": {
+                    "osvdbid": "",
+                    "method": "",
+                    "uri": ""
+                  }
+                }
+              }
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Vulnerability Scanning - Nikto",
+                "System Auditing - Lynis",
+                "AntiVirus Scanning",
+                "Network Connection Tracking - Bro",
+                "Network Connection Tracking - Kismet",
+                "Network Connection Tracking - Bro, Kismet",
+                "Intrusion Detection - Bro",
+                "Intrusion Detection - Snort",
+                "Intrusion Detection - Ossec",
+                "Intrusion Detection - Kismet",
+                "Intrusion Detection - Bro, Snort",
+                "Intrusion Detection - Bro, Ossec",
+                "Intrusion Detection - Bro, Kismet",
+                "Intrusion Detection - Snort, Ossec",
+                "Intrusion Detection - Snort, Kismet",
+                "Intrusion Detection - Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec",
+                "Intrusion Detection - Snort, Ossec, Kismet",
+                "Intrusion Detection - Bro, Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec, Kismet"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    "Intrusion Detection - Bro, Snort"
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    "Intrusion Detection - Bro, Snort"
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    "Intrusion Detection - Bro, Snort"
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    "Intrusion Detection - Bro, Snort"
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "VS-VD Subject",
+              "message": "VS-VD Message",
+              "extraData": {},
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "System Auditing": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [
+          "Lynis"
+        ],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "SA AutoLog name",
+          "details": "SA AutoLog details",
+          "type": "data",
+          "data": {}
+        },
+        "events": {
+          "System Failure": {
+            "criteria": "SA-SF criteria",
+            "emergencyLevelSettings": {
+              "number": 10,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "SA-SF AutoEvent name",
+              "details": "SA-SF AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {}
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Vulnerability Scanning - Nikto",
+                "System Auditing - Lynis",
+                "AntiVirus Scanning",
+                "Network Connection Tracking - Bro",
+                "Network Connection Tracking - Kismet",
+                "Network Connection Tracking - Bro, Kismet",
+                "Intrusion Detection - Bro",
+                "Intrusion Detection - Snort",
+                "Intrusion Detection - Ossec",
+                "Intrusion Detection - Kismet",
+                "Intrusion Detection - Bro, Snort",
+                "Intrusion Detection - Bro, Ossec",
+                "Intrusion Detection - Bro, Kismet",
+                "Intrusion Detection - Snort, Ossec",
+                "Intrusion Detection - Snort, Kismet",
+                "Intrusion Detection - Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec",
+                "Intrusion Detection - Snort, Ossec, Kismet",
+                "Intrusion Detection - Bro, Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec, Kismet"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "SA-SF Subject",
+              "message": "SA-SF Message",
+              "extraData": {},
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      },
+      "AntiVirus Scanning": {
+        "active": true,
+        "handlerType": "Real Time",
+        "handlerMethod": "Regular Analysis",
+        "sources": [],
+        "autologFunctionality": true,
+        "autologSettings": {
+          "name": "AS AutoLog name",
+          "details": "AS AutoLog details",
+          "type": "data",
+          "data": {}
+        },
+        "events": {
+          "Virus Detected": {
+            "criteria": "AS-VD criteria",
+            "emergencyLevelSettings": {
+              "number": 10,
+              "correlationRates": {
+                "default": 0,
+                "low": 10,
+                "medium": 5,
+                "high": 1
+              }
+            },
+            "autoeventFunctionality": true,
+            "autoeventSettings": {
+              "name": "AS-VD AutoEvent name",
+              "details": "AS-VD AutoEvent details",
+              "type": "data",
+              "emergency_level": "default",
+              "data": {}
+            },
+            "handlerFunctionality": true,
+            "handlerSettings": {
+              "actionOptions": [
+                "Vulnerability Scanning - Nikto",
+                "System Auditing - Lynis",
+                "AntiVirus Scanning",
+                "Network Connection Tracking - Bro",
+                "Network Connection Tracking - Kismet",
+                "Network Connection Tracking - Bro, Kismet",
+                "Intrusion Detection - Bro",
+                "Intrusion Detection - Snort",
+                "Intrusion Detection - Ossec",
+                "Intrusion Detection - Kismet",
+                "Intrusion Detection - Bro, Snort",
+                "Intrusion Detection - Bro, Ossec",
+                "Intrusion Detection - Bro, Kismet",
+                "Intrusion Detection - Snort, Ossec",
+                "Intrusion Detection - Snort, Kismet",
+                "Intrusion Detection - Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec",
+                "Intrusion Detection - Snort, Ossec, Kismet",
+                "Intrusion Detection - Bro, Ossec, Kismet",
+                "Intrusion Detection - Bro, Snort, Kismet",
+                "Intrusion Detection - Bro, Snort, Ossec, Kismet"
+              ],
+              "emergencyLevels": {
+                "default": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "low": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "medium": {
+                  "actions": [
+                    ""
+                  ]
+                },
+                "high": {
+                  "actions": [
+                    ""
+                  ]
+                }
+              }
+            },
+            "alertFunctionality": true,
+            "alertSettings": {
+              "emergencyLevel": "default",
+              "autoGenerate": true,
+              "subject": "AS-VD Subject",
+              "message": "AS-VD Message",
+              "extraData": {},
+              "recipientsType": "Users",
+              "contactMethods": [
+                "Notification",
+                "Email",
+                "SMS"
+              ],
+              "recipients": []
+            }
+          }
+        }
+      }
+    }
+  }
+}

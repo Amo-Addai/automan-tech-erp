@@ -1,0 +1,288 @@
+{
+    "type": "Project",
+    "stage": "Initiation",
+    "executed": false,
+    "design": {
+        "problem": "",
+        "budget": 0,
+        "duration": 0,
+        "segmentation": {
+            "segments": [
+                "5c8a4b2a4d0f1f5a88dd35dc"
+            ]
+        },
+        "methods": {
+            "methods": [
+                "Survey"
+            ],
+            "Survey": {
+                "forms": [
+                    {
+                        "id": "kk1cG0",
+                        "name": "Consumer Research Survey",
+                        "message": "",
+                        "source": "Typeform",
+                        "link": {
+                            "link_api": "https://api.typeform.com/forms/kk1cG0",
+                            "link_page": "https://kwadwoamoaddai.typeform.com/to/kk1cG0"
+                        },
+                        "language": "English",
+                        "questions": [],
+                        "formData": {
+                            "id": "kk1cG0",
+                            "title": "Consumer Research Survey",
+                            "theme": {
+                                "href": "https://api.typeform.com/themes/6lPNE6"
+                            },
+                            "workspace": {
+                                "href": "https://api.typeform.com/workspaces/Di5EiS"
+                            },
+                            "settings": {
+                                "is_public": true,
+                                "is_trial": false,
+                                "language": "en",
+                                "progress_bar": "proportion",
+                                "show_progress_bar": true,
+                                "show_typeform_branding": true,
+                                "meta": {
+                                    "allow_indexing": false
+                                }
+                            },
+                            "welcome_screens": [
+                                {
+                                    "ref": "f8b82629-8b8c-4c29-b58f-dedcd5c72474",
+                                    "title": "Hello!! Welcome to a DataSight Online Survey!!",
+                                    "properties": {
+                                        "show_button": true,
+                                        "description": "This survey is to get to know more about what you think of the Shoprite Retail Store.",
+                                        "button_text": "Start"
+                                    },
+                                    "attachment": {
+                                        "type": "image",
+                                        "href": "https://images.typeform.com/images/cNLdDsKiM6XJ"
+                                    }
+                                }
+                            ],
+                            "thankyou_screens": [
+                                {
+                                    "ref": "default_tys",
+                                    "title": "Thanks for completing this typeform\nNow *create your own* — it's free, easy, & beautiful",
+                                    "properties": {
+                                        "show_button": true,
+                                        "share_icons": false,
+                                        "button_mode": "redirect",
+                                        "button_text": "Create a *typeform*",
+                                        "redirect_url": "https://admin.typeform.com/powered-by?utm_campaign=kk1cG0&utm_source=typeform.com-13457763-Basic&utm_medium=typeform&utm_content=typeform-thankyoubutton&utm_term=EN"
+                                    },
+                                    "attachment": {
+                                        "type": "image",
+                                        "href": "https://images.typeform.com/images/2dpnUBBkz2VN"
+                                    }
+                                }
+                            ],
+                            "fields": [
+                                {
+                                    "id": "imkGh39Oswa0",
+                                    "title": "What do you like most about Mr. Khumalo's Retail Store Shoprite?",
+                                    "ref": "19004c20-8027-4aad-b3e9-fe4afb3eeac9",
+                                    "properties": {
+                                        "randomize": false,
+                                        "allow_multiple_selection": false,
+                                        "allow_other_choice": false,
+                                        "vertical_alignment": true,
+                                        "choices": [
+                                            {
+                                                "id": "FPw5seKhqiD9",
+                                                "ref": "8ee84153-e524-41bf-a2c1-7e4387d56dae",
+                                                "label": "Pricing"
+                                            },
+                                            {
+                                                "id": "pbCG3Op08ZgW",
+                                                "ref": "03cb1c66-b55d-4f29-8023-10be40625927",
+                                                "label": "Products' Quality"
+                                            },
+                                            {
+                                                "id": "rXXUPucx0uin",
+                                                "ref": "31114e76-7426-4308-ad89-d2ba6266e27e",
+                                                "label": "Customer Service"
+                                            },
+                                            {
+                                                "id": "YbO57XC9ApPO",
+                                                "ref": "86675b65-0a6c-48f3-9f4a-297e5cd1a350",
+                                                "label": "Environment"
+                                            }
+                                        ]
+                                    },
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "multiple_choice"
+                                },
+                                {
+                                    "id": "pijxsJPjuNil",
+                                    "title": "What do you dislike most about Mr. Khumalo's Retail Store Shoprite?",
+                                    "ref": "91a1f1b6-b5cd-4784-a48c-fe56666c896c",
+                                    "properties": {
+                                        "randomize": false,
+                                        "allow_multiple_selection": false,
+                                        "allow_other_choice": false,
+                                        "vertical_alignment": true,
+                                        "choices": [
+                                            {
+                                                "id": "GeaHgkeWKmO2",
+                                                "ref": "b0542b6a-42e4-440f-90df-1bf8e2d49fa2",
+                                                "label": "Pricing"
+                                            },
+                                            {
+                                                "id": "EqAL7iDnu3U5",
+                                                "ref": "a938913e-787b-4bac-9b60-6558287d1b2b",
+                                                "label": "Products' Quality"
+                                            },
+                                            {
+                                                "id": "IzqJHGlWVS9G",
+                                                "ref": "5c8d0e92-5102-4883-b6e2-540dd70f4e6a",
+                                                "label": "Customer Service"
+                                            },
+                                            {
+                                                "id": "gwtxTdd7Df0e",
+                                                "ref": "2ba412e7-b7d5-44ab-a736-31a9a03a689f",
+                                                "label": "Environment"
+                                            }
+                                        ]
+                                    },
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "multiple_choice"
+                                }
+                            ],
+                            "_links": {
+                                "display": "https://kwadwoamoaddai.typeform.com/to/kk1cG0"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "data": {
+        "Survey": {
+            "forms": [
+                {
+                    "id": "kk1cG0",
+                    "name": "Consumer Research Survey",
+                    "message": "",
+                    "source": "Typeform",
+                    "language": "English",
+                    "link": {
+                        "link_api": "https://api.typeform.com/forms/kk1cG0",
+                        "link_page": "https://kwadwoamoaddai.typeform.com/to/kk1cG0"
+                    },
+                    "questions": [],
+                    "responsesData": {
+                        "total_items": 1,
+                        "page_count": 1,
+                        "items": [
+                            {
+                                "landing_id": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "token": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "response_id": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "landed_at": "2019-03-15T06:54:21Z",
+                                "submitted_at": "2019-03-15T06:54:33Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/kk1cG0",
+                                    "network_id": "bb37612641",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "imkGh39Oswa0",
+                                            "type": "multiple_choice",
+                                            "ref": "19004c20-8027-4aad-b3e9-fe4afb3eeac9"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Products' Quality"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pijxsJPjuNil",
+                                            "type": "multiple_choice",
+                                            "ref": "91a1f1b6-b5cd-4784-a48c-fe56666c896c"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Environment"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "responses": [
+                        {
+                            "respondent": {
+                                "landing_id": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "token": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "response_id": "53a093ad7f9c6d201879bb0c165dd76f",
+                                "landed_at": "2019-03-15T06:54:21Z",
+                                "submitted_at": "2019-03-15T06:54:33Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/kk1cG0",
+                                "network_id": "bb37612641",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "imkGh39Oswa0",
+                                        "type": "multiple_choice",
+                                        "ref": "19004c20-8027-4aad-b3e9-fe4afb3eeac9"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Products' Quality"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pijxsJPjuNil",
+                                        "type": "multiple_choice",
+                                        "ref": "91a1f1b6-b5cd-4784-a48c-fe56666c896c"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Environment"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "date_created": "2019-03-15T06:35:05.893Z",
+    "_id": "5c8b4799457055476cd9e696",
+    "details": "details of ...",
+    "budget": 100,
+    "start_date": "2019-03-15T06:35:01.822Z",
+    "end_date": "2019-03-15T06:35:01.822Z",
+    "name": "Market Research on MEST EITs 2019 Segment",
+    "updatedAt": "2019-03-15T06:55:12.050Z",
+    "createdAt": "2019-03-15T06:35:05.894Z",
+    "__v": 0
+}

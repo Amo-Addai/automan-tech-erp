@@ -1,0 +1,11 @@
+runtime: nodejs10
+env: standard
+
+env_variables: 
+  DOMAIN: "www.cofundie.com/"
+  PROTOCOL: "https://"
+  IP: "cofundieapp.herokuapp.com/"
+  PORT: "8080"
+  NODE_ENV: "production"
+  MONGOLAB_URI: "mongodb://mr_amoaddai:cofundie2019@ds259787.mlab.com:59787/cofundie"
+  SECRET_SESSION: "cofundie-secret"

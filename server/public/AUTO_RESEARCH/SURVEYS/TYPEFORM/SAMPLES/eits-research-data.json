@@ -1,0 +1,2175 @@
+{
+    "type": "Project",
+    "stage": "Initiation",
+    "executed": false,
+    "design": {
+        "problem": "",
+        "budget": 0,
+        "duration": 0,
+        "segmentation": {
+            "segments": [
+                "5c869c51f6cc780004188a33",
+                "5c869c51f6cc780004188a34",
+                "5c869c51f6cc780004188a35"
+            ]
+        },
+        "methods": {
+            "methods": [
+                "Survey"
+            ],
+            "Survey": {
+                "forms": [
+                    {
+                        "id": "BrOBfG",
+                        "name": "Market Research on MEST EITs 2019",
+                        "message": "",
+                        "source": "Typeform",
+                        "link": {
+                            "link_api": "https://api.typeform.com/forms/BrOBfG",
+                            "link_page": "https://kwadwoamoaddai.typeform.com/to/BrOBfG"
+                        },
+                        "language": "English",
+                        "questions": [],
+                        "formData": {
+                            "id": "BrOBfG",
+                            "title": "Market Research on MEST EITs 2019",
+                            "theme": {
+                                "href": "https://api.typeform.com/themes/6lPNE6"
+                            },
+                            "workspace": {
+                                "href": "https://api.typeform.com/workspaces/Di5EiS"
+                            },
+                            "settings": {
+                                "is_public": true,
+                                "is_trial": false,
+                                "language": "en",
+                                "progress_bar": "proportion",
+                                "show_progress_bar": true,
+                                "show_typeform_branding": true,
+                                "meta": {
+                                    "allow_indexing": false
+                                }
+                            },
+                            "welcome_screens": [
+                                {
+                                    "ref": "87ae0843-9909-4956-b904-ac618c8eb4c5",
+                                    "title": "Hello!! Welcome to the very first DataSight Online Survey!!",
+                                    "properties": {
+                                        "show_button": true,
+                                        "button_text": "Start"
+                                    },
+                                    "attachment": {
+                                        "type": "image",
+                                        "href": "https://images.typeform.com/images/zbttNCFtqtig"
+                                    }
+                                }
+                            ],
+                            "thankyou_screens": [
+                                {
+                                    "ref": "default_tys",
+                                    "title": "Thanks for completing this typeform\nNow *create your own* — it's free, easy, & beautiful",
+                                    "properties": {
+                                        "show_button": true,
+                                        "share_icons": false,
+                                        "button_mode": "redirect",
+                                        "button_text": "Create a *typeform*",
+                                        "redirect_url": "https://admin.typeform.com/powered-by?utm_campaign=BrOBfG&utm_source=typeform.com-13457763-Basic&utm_medium=typeform&utm_content=typeform-thankyoubutton&utm_term=EN"
+                                    },
+                                    "attachment": {
+                                        "type": "image",
+                                        "href": "https://images.typeform.com/images/2dpnUBBkz2VN"
+                                    }
+                                }
+                            ],
+                            "fields": [
+                                {
+                                    "id": "zlpMzcf0x5ib",
+                                    "title": "Don't worry, we won't take too much of your time, we just wanna ask some very quick questions ..",
+                                    "ref": "e705c346-e996-4996-afeb-20d474977661",
+                                    "properties": {
+                                        "hide_marks": false,
+                                        "button_text": "Continue"
+                                    },
+                                    "type": "statement"
+                                },
+                                {
+                                    "id": "kPpKwsbY40E1",
+                                    "title": "Do you wanna get funded ?????",
+                                    "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078",
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "yes_no"
+                                },
+                                {
+                                    "id": "pVEKOnCoVRoN",
+                                    "title": "How bad do you wanna get funded ??????",
+                                    "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7",
+                                    "properties": {
+                                        "steps": 11,
+                                        "start_at_one": false
+                                    },
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "opinion_scale"
+                                },
+                                {
+                                    "id": "HV6HapnXj8V1",
+                                    "title": "Which of these do you want most from MEST??",
+                                    "ref": "14df2185-9b58-499a-953f-7d4f2383cdde",
+                                    "properties": {
+                                        "randomize": false,
+                                        "allow_multiple_selection": false,
+                                        "allow_other_choice": false,
+                                        "vertical_alignment": true,
+                                        "choices": [
+                                            {
+                                                "id": "bkr6rkPOXYDU",
+                                                "ref": "c3915225-6dc1-42b2-8cf0-ddbb2473129e",
+                                                "label": "Funding"
+                                            },
+                                            {
+                                                "id": "B3j4xZGlwZAj",
+                                                "ref": "a577663d-8112-48b3-bc2a-e1c7ee924a27",
+                                                "label": "Funding"
+                                            },
+                                            {
+                                                "id": "ZHcDBlFLbF0S",
+                                                "ref": "86d8bb8f-da86-49c3-9438-8b142c0dda49",
+                                                "label": "Funding"
+                                            }
+                                        ]
+                                    },
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "multiple_choice"
+                                },
+                                {
+                                    "id": "Nb47evLG6wzj",
+                                    "title": "WOOOWWWW!!! Based on your psychometric test, it seems you REALLY want to get funded loooooooolllll",
+                                    "ref": "df229f78-936a-4720-ba56-33a5165ac431",
+                                    "properties": {
+                                        "hide_marks": false,
+                                        "button_text": "Continue"
+                                    },
+                                    "type": "statement"
+                                },
+                                {
+                                    "id": "AKfH6dqSiRYb",
+                                    "title": "Rate this survey for DataSight pleasssseeee (P.S. 3 stars = funding :)",
+                                    "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135",
+                                    "properties": {
+                                        "steps": 3,
+                                        "shape": "star"
+                                    },
+                                    "validations": {
+                                        "required": false
+                                    },
+                                    "type": "rating"
+                                }
+                            ],
+                            "_links": {
+                                "display": "https://kwadwoamoaddai.typeform.com/to/BrOBfG"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "data": {
+        "Survey": {
+            "forms": [
+                {
+                    "id": "BrOBfG",
+                    "name": "Market Research on MEST EITs 2019",
+                    "message": "",
+                    "source": "Typeform",
+                    "language": "English",
+                    "link": {
+                        "link_api": "https://api.typeform.com/forms/BrOBfG",
+                        "link_page": "https://kwadwoamoaddai.typeform.com/to/BrOBfG"
+                    },
+                    "questions": [],
+                    "responsesData": {
+                        "total_items": 26,
+                        "page_count": 1,
+                        "items": [
+                            {
+                                "landing_id": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "token": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "response_id": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "landed_at": "2019-03-14T09:49:25Z",
+                                "submitted_at": "2019-03-14T09:49:53Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 9; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": false
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 1
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "token": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "response_id": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "landed_at": "2019-03-13T16:13:13Z",
+                                "submitted_at": "2019-03-13T16:13:46Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 9; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": false
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 0
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "ff9b6670e7ef1412922347c3c9412f29",
+                                "token": "ff9b6670e7ef1412922347c3c9412f29",
+                                "response_id": "ff9b6670e7ef1412922347c3c9412f29",
+                                "landed_at": "2019-03-12T10:13:11Z",
+                                "submitted_at": "2019-03-12T14:50:07Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "61302f81e8",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 9
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "token": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "response_id": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "landed_at": "2019-03-11T14:44:16Z",
+                                "submitted_at": "2019-03-11T20:41:40Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d7b9a1024d",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 2
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "token": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "response_id": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "landed_at": "2019-03-11T14:13:33Z",
+                                "submitted_at": "2019-03-11T14:14:24Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 10
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "404d74f268d5e937e9a22ff57d39ed64",
+                                "token": "404d74f268d5e937e9a22ff57d39ed64",
+                                "response_id": "404d74f268d5e937e9a22ff57d39ed64",
+                                "landed_at": "2019-03-11T12:13:06Z",
+                                "submitted_at": "2019-03-11T12:24:38Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "376ab1b481",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": false
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 0
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "355526c07cd6887a12f15c79c119836a",
+                                "token": "355526c07cd6887a12f15c79c119836a",
+                                "response_id": "355526c07cd6887a12f15c79c119836a",
+                                "landed_at": "2019-03-11T11:30:24Z",
+                                "submitted_at": "2019-03-11T11:30:59Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G920V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "7b1a47b1d9",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 6
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "759a7b0b83cc606afd715b4b9cb00521",
+                                "token": "759a7b0b83cc606afd715b4b9cb00521",
+                                "response_id": "759a7b0b83cc606afd715b4b9cb00521",
+                                "landed_at": "2019-03-11T09:53:19Z",
+                                "submitted_at": "2019-03-11T09:54:04Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": false
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 0
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "token": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "response_id": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "landed_at": "2019-03-10T19:06:16Z",
+                                "submitted_at": "2019-03-10T19:07:48Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "99f38f5909",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": false
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 6
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 2
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "b2fd34f93cad7df8baed913d04324b9d",
+                                "token": "b2fd34f93cad7df8baed913d04324b9d",
+                                "response_id": "b2fd34f93cad7df8baed913d04324b9d",
+                                "landed_at": "2019-03-08T11:21:24Z",
+                                "submitted_at": "2019-03-08T11:21:46Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; TA-1020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 6
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "token": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "response_id": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "landed_at": "2019-03-08T10:37:56Z",
+                                "submitted_at": "2019-03-08T10:38:29Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; TA-1020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 6
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "3129abd59f19ce57027bf65a335aa5cb",
+                                "token": "3129abd59f19ce57027bf65a335aa5cb",
+                                "response_id": "3129abd59f19ce57027bf65a335aa5cb",
+                                "landed_at": "2019-03-08T10:10:37Z",
+                                "submitted_at": "2019-03-08T10:11:32Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "default"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 6
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "token": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "response_id": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "landed_at": "2019-03-08T10:10:40Z",
+                                "submitted_at": "2019-03-08T10:11:19Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J327T Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "29dfd9fff8",
+                                    "browser": "touch"
+                                },
+                                "answers": [
+                                    {
+                                        "field": {
+                                            "id": "kPpKwsbY40E1",
+                                            "type": "yes_no",
+                                            "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                        },
+                                        "type": "boolean",
+                                        "boolean": true
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "pVEKOnCoVRoN",
+                                            "type": "opinion_scale",
+                                            "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                        },
+                                        "type": "number",
+                                        "number": 10
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "HV6HapnXj8V1",
+                                            "type": "multiple_choice",
+                                            "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                        },
+                                        "type": "choice",
+                                        "choice": {
+                                            "label": "Funding"
+                                        }
+                                    },
+                                    {
+                                        "field": {
+                                            "id": "AKfH6dqSiRYb",
+                                            "type": "rating",
+                                            "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                        },
+                                        "type": "number",
+                                        "number": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "landing_id": "02d5e89834ae05d296a8db41700b70cd",
+                                "token": "02d5e89834ae05d296a8db41700b70cd",
+                                "response_id": "02d5e89834ae05d296a8db41700b70cd",
+                                "landed_at": "2019-03-08T09:34:57Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "29dfd9fff8",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "114b80b389c1e1c69ade49b71b85214d",
+                                "token": "114b80b389c1e1c69ade49b71b85214d",
+                                "response_id": "114b80b389c1e1c69ade49b71b85214d",
+                                "landed_at": "2019-03-08T11:21:03Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Opera/9.80 (Android; Opera Mini/33.0.2254/133.78; U; en) Presto/2.12.423 Version/12.16",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "8eb9f68702",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "119e43a814fb9b0ff87c841dcab5a248",
+                                "token": "119e43a814fb9b0ff87c841dcab5a248",
+                                "response_id": "119e43a814fb9b0ff87c841dcab5a248",
+                                "landed_at": "2019-03-11T11:53:23Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "1cebd21bc8",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "1dae4e221a086f9a33dffad56015d3e1",
+                                "token": "1dae4e221a086f9a33dffad56015d3e1",
+                                "response_id": "1dae4e221a086f9a33dffad56015d3e1",
+                                "landed_at": "2019-03-12T05:37:05Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "22d44b4a7a",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "2ae4f1590edd30066f579c84656a3a30",
+                                "token": "2ae4f1590edd30066f579c84656a3a30",
+                                "response_id": "2ae4f1590edd30066f579c84656a3a30",
+                                "landed_at": "2019-03-13T09:16:46Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "2b9dd277fb",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "token": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "response_id": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "landed_at": "2019-03-09T08:12:27Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "6b6f9ddebe",
+                                    "browser": "touch"
+                                }
+                            },
+                            {
+                                "landing_id": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "token": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "response_id": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "landed_at": "2019-03-11T09:40:10Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "473d8f18ba6fda3f75c875a097c43dff",
+                                "token": "473d8f18ba6fda3f75c875a097c43dff",
+                                "response_id": "473d8f18ba6fda3f75c875a097c43dff",
+                                "landed_at": "2019-03-11T09:42:18Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                }
+                            },
+                            {
+                                "landing_id": "7b549261bca44036d5dae8dbcd297bcb",
+                                "token": "7b549261bca44036d5dae8dbcd297bcb",
+                                "response_id": "7b549261bca44036d5dae8dbcd297bcb",
+                                "landed_at": "2019-03-08T12:03:28Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "29dfd9fff8",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "token": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "response_id": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "landed_at": "2019-03-12T05:29:34Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "22d44b4a7a",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "d3f1b8fe270f84ef03935218e7479afe",
+                                "token": "d3f1b8fe270f84ef03935218e7479afe",
+                                "response_id": "d3f1b8fe270f84ef03935218e7479afe",
+                                "landed_at": "2019-03-11T09:46:26Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; TA-1024 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.81 Mobile Safari/537.36",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "d999dc90c9",
+                                    "browser": "touch"
+                                }
+                            },
+                            {
+                                "landing_id": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "token": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "response_id": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "landed_at": "2019-03-13T09:11:07Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                    "platform": "other",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "2b9dd277fb",
+                                    "browser": "default"
+                                }
+                            },
+                            {
+                                "landing_id": "efd45b2ad4de37629a1252faf8672e45",
+                                "token": "efd45b2ad4de37629a1252faf8672e45",
+                                "response_id": "efd45b2ad4de37629a1252faf8672e45",
+                                "landed_at": "2019-03-08T10:37:11Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "metadata": {
+                                    "user_agent": "Opera/9.80 (Android; Opera Mini/33.0.2254/133.78; U; en) Presto/2.12.423 Version/12.16",
+                                    "platform": "mobile",
+                                    "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                    "network_id": "5c55285598",
+                                    "browser": "default"
+                                }
+                            }
+                        ]
+                    },
+                    "responses": [
+                        {
+                            "respondent": {
+                                "landing_id": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "token": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "response_id": "fcd5b81926e14a2ed7c106b828acbf7b",
+                                "landed_at": "2019-03-11T14:13:33Z",
+                                "submitted_at": "2019-03-11T14:14:24Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 10
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "404d74f268d5e937e9a22ff57d39ed64",
+                                "token": "404d74f268d5e937e9a22ff57d39ed64",
+                                "response_id": "404d74f268d5e937e9a22ff57d39ed64",
+                                "landed_at": "2019-03-11T12:13:06Z",
+                                "submitted_at": "2019-03-11T12:24:38Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "376ab1b481",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 1
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "355526c07cd6887a12f15c79c119836a",
+                                "token": "355526c07cd6887a12f15c79c119836a",
+                                "response_id": "355526c07cd6887a12f15c79c119836a",
+                                "landed_at": "2019-03-11T11:30:24Z",
+                                "submitted_at": "2019-03-11T11:30:59Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G920V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "7b1a47b1d9",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 6
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 2
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "759a7b0b83cc606afd715b4b9cb00521",
+                                "token": "759a7b0b83cc606afd715b4b9cb00521",
+                                "response_id": "759a7b0b83cc606afd715b4b9cb00521",
+                                "landed_at": "2019-03-11T09:53:19Z",
+                                "submitted_at": "2019-03-11T09:54:04Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 1
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "token": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "response_id": "dcec5858b51913a17eaa1f3ee31cf289",
+                                "landed_at": "2019-03-10T19:06:16Z",
+                                "submitted_at": "2019-03-10T19:07:48Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "99f38f5909",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 6
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 2
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "b2fd34f93cad7df8baed913d04324b9d",
+                                "token": "b2fd34f93cad7df8baed913d04324b9d",
+                                "response_id": "b2fd34f93cad7df8baed913d04324b9d",
+                                "landed_at": "2019-03-08T11:21:24Z",
+                                "submitted_at": "2019-03-08T11:21:46Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; TA-1020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 6
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "token": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "response_id": "3bc5bf0accb74bad976a55cc18f8241a",
+                                "landed_at": "2019-03-08T10:37:56Z",
+                                "submitted_at": "2019-03-08T10:38:29Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; TA-1020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 6
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "3129abd59f19ce57027bf65a335aa5cb",
+                                "token": "3129abd59f19ce57027bf65a335aa5cb",
+                                "response_id": "3129abd59f19ce57027bf65a335aa5cb",
+                                "landed_at": "2019-03-08T10:10:37Z",
+                                "submitted_at": "2019-03-08T10:11:32Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 6
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "token": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "response_id": "8ac0af16b4e5e0830a718fde67bdf083",
+                                "landed_at": "2019-03-08T10:10:40Z",
+                                "submitted_at": "2019-03-08T10:11:19Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J327T Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "29dfd9fff8",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 10
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "02d5e89834ae05d296a8db41700b70cd",
+                                "token": "02d5e89834ae05d296a8db41700b70cd",
+                                "response_id": "02d5e89834ae05d296a8db41700b70cd",
+                                "landed_at": "2019-03-08T09:34:57Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "29dfd9fff8",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "114b80b389c1e1c69ade49b71b85214d",
+                                "token": "114b80b389c1e1c69ade49b71b85214d",
+                                "response_id": "114b80b389c1e1c69ade49b71b85214d",
+                                "landed_at": "2019-03-08T11:21:03Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Opera/9.80 (Android; Opera Mini/33.0.2254/133.78; U; en) Presto/2.12.423 Version/12.16",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "8eb9f68702",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "119e43a814fb9b0ff87c841dcab5a248",
+                                "token": "119e43a814fb9b0ff87c841dcab5a248",
+                                "response_id": "119e43a814fb9b0ff87c841dcab5a248",
+                                "landed_at": "2019-03-11T11:53:23Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "1cebd21bc8",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "token": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "response_id": "3d0159219fef7d52ff5a8708c77ed2ac",
+                                "landed_at": "2019-03-09T08:12:27Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "6b6f9ddebe",
+                                "browser": "touch"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "token": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "response_id": "44bf3a10f7f421b1af23f9cf962feb12",
+                                "landed_at": "2019-03-11T09:40:10Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "473d8f18ba6fda3f75c875a097c43dff",
+                                "token": "473d8f18ba6fda3f75c875a097c43dff",
+                                "response_id": "473d8f18ba6fda3f75c875a097c43dff",
+                                "landed_at": "2019-03-11T09:42:18Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "7b549261bca44036d5dae8dbcd297bcb",
+                                "token": "7b549261bca44036d5dae8dbcd297bcb",
+                                "response_id": "7b549261bca44036d5dae8dbcd297bcb",
+                                "landed_at": "2019-03-08T12:03:28Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "29dfd9fff8",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "d3f1b8fe270f84ef03935218e7479afe",
+                                "token": "d3f1b8fe270f84ef03935218e7479afe",
+                                "response_id": "d3f1b8fe270f84ef03935218e7479afe",
+                                "landed_at": "2019-03-11T09:46:26Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; TA-1024 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.81 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "efd45b2ad4de37629a1252faf8672e45",
+                                "token": "efd45b2ad4de37629a1252faf8672e45",
+                                "response_id": "efd45b2ad4de37629a1252faf8672e45",
+                                "landed_at": "2019-03-08T10:37:11Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Opera/9.80 (Android; Opera Mini/33.0.2254/133.78; U; en) Presto/2.12.423 Version/12.16",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "5c55285598",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "token": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "response_id": "f1a935f81b5417c40e48e93bb4dbf48b",
+                                "landed_at": "2019-03-11T14:44:16Z",
+                                "submitted_at": "2019-03-11T20:41:40Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d7b9a1024d",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 2
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 2
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "1dae4e221a086f9a33dffad56015d3e1",
+                                "token": "1dae4e221a086f9a33dffad56015d3e1",
+                                "response_id": "1dae4e221a086f9a33dffad56015d3e1",
+                                "landed_at": "2019-03-12T05:37:05Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "22d44b4a7a",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "token": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "response_id": "cc3252a4bf47b04787291508c3c8f1ea",
+                                "landed_at": "2019-03-12T05:29:34Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "22d44b4a7a",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "ff9b6670e7ef1412922347c3c9412f29",
+                                "token": "ff9b6670e7ef1412922347c3c9412f29",
+                                "response_id": "ff9b6670e7ef1412922347c3c9412f29",
+                                "landed_at": "2019-03-12T10:13:11Z",
+                                "submitted_at": "2019-03-12T14:50:07Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "61302f81e8",
+                                "browser": "default"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean",
+                                        "value": true
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 9
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "2ae4f1590edd30066f579c84656a3a30",
+                                "token": "2ae4f1590edd30066f579c84656a3a30",
+                                "response_id": "2ae4f1590edd30066f579c84656a3a30",
+                                "landed_at": "2019-03-13T09:16:46Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "2b9dd277fb",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "token": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "response_id": "d79dd2130e4b30434c4dc309afdeb98b",
+                                "landed_at": "2019-03-13T09:11:07Z",
+                                "submitted_at": "0001-01-01T00:00:00Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+                                "platform": "other",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "2b9dd277fb",
+                                "browser": "default"
+                            },
+                            "answers": []
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "token": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "response_id": "eb0c4a873ffbdef4caa24b8263227e12",
+                                "landed_at": "2019-03-13T16:13:13Z",
+                                "submitted_at": "2019-03-13T16:13:46Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 9; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 3
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "respondent": {
+                                "landing_id": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "token": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "response_id": "e4c6945f2e39e54f2b3cb38373b30447",
+                                "landed_at": "2019-03-14T09:49:25Z",
+                                "submitted_at": "2019-03-14T09:49:53Z",
+                                "hidden": "",
+                                "calculated": ""
+                            },
+                            "metadata": {
+                                "user_agent": "Mozilla/5.0 (Linux; Android 9; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+                                "platform": "mobile",
+                                "referer": "https://kwadwoamoaddai.typeform.com/to/BrOBfG",
+                                "network_id": "d999dc90c9",
+                                "browser": "touch"
+                            },
+                            "answers": [
+                                {
+                                    "field": {
+                                        "id": "kPpKwsbY40E1",
+                                        "type": "yes_no",
+                                        "ref": "41cae31d-0cf5-4620-8db7-c4ced3a86078"
+                                    },
+                                    "answer": {
+                                        "type": "boolean"
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "pVEKOnCoVRoN",
+                                        "type": "opinion_scale",
+                                        "ref": "dd809efe-3bc1-4dcd-ae12-7e361f6c66f7"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 1
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "HV6HapnXj8V1",
+                                        "type": "multiple_choice",
+                                        "ref": "14df2185-9b58-499a-953f-7d4f2383cdde"
+                                    },
+                                    "answer": {
+                                        "type": "choice",
+                                        "value": {
+                                            "label": "Funding"
+                                        }
+                                    }
+                                },
+                                {
+                                    "field": {
+                                        "id": "AKfH6dqSiRYb",
+                                        "type": "rating",
+                                        "ref": "742114b9-dbd0-4b7d-a798-6d42f40c1135"
+                                    },
+                                    "answer": {
+                                        "type": "number",
+                                        "value": 1
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "date_created": "2019-03-11T17:35:13.950Z",
+    "_id": "5c869c51f6cc780004188a36",
+    "details": "details of ...",
+    "budget": 100,
+    "start_date": "2019-03-11T17:35:11.483Z",
+    "end_date": "2019-03-11T17:35:11.483Z",
+    "name": "Market Research on MEST EITs 2019 Segment",
+    "updatedAt": "2019-03-14T17:08:02.831Z",
+    "createdAt": "2019-03-11T17:35:13.969Z",
+    "__v": 0
+}

@@ -1,0 +1,2652 @@
+[ 
+  {
+    "type": "Prospect",
+    "username": "james.muriuki",
+    "first_name": "James ",
+    "last_name": "Muriuki",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "james.muriuki@meltwater.org",
+    "phone": "+233501693313",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@JamesM_Muriuki"
+      },
+      "skype": {
+        "link": "james_28474"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/james-muriuki-a31b00128"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "shepherd.morttey",
+    "first_name": "Shepherd Yaw",
+    "last_name": "Morttey",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "shepherd.morttey@meltwater.org",
+    "phone": "+233242022161",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://morttey.com"
+      },
+      "twitter": {
+        "link": "@smorttey"
+      },
+      "skype": {
+        "link": "morttey4u"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/morttey"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "samirah.maison",
+    "first_name": "Samirah ",
+    "last_name": "Maison",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "samirah.maison@meltwater.org",
+    "phone": "+233501693336",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@_sami_mai"
+      },
+      "skype": {
+        "link": "_sami_mai"
+      },
+      "linkedin": {
+        "link": "www.linkedin.com/in/sami-mai/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "Ibrahim.abdulmalik",
+    "first_name": "Ibrahim ",
+    "last_name": "Abdulmalik ",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "Ibrahim.abdulmalik@meltwater.org ",
+    "phone": "+233501693327",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@princeleel"
+      },
+      "skype": {
+        "link": "Abdulmalikibrahimk"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ibrahimabdulmalik"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348166602316"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "victor.yunusa",
+    "first_name": "Victor",
+    "last_name": "Yunusa",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "victor.yunusa@meltwater.org",
+    "phone": "+233501693347",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://vibesshare.com"
+      },
+      "twitter": {
+        "link": "@victoryunusa"
+      },
+      "skype": {
+        "link": "victoryunusa17"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/victoryunusa"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348069072412"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "aaron.ejeme",
+    "first_name": "Aaron",
+    "last_name": "Ejeme",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "aaron.ejeme@meltwater.org",
+    "phone": "+233501693337",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@aaronejeme"
+      },
+      "skype": {
+        "link": "roviarsguide@gmail.com"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/aaron-ejeme-90359b105/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          "roviarsguide@gmail.com"
+        ],
+        "phone": [
+          "+2348136035368"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "olamide.akomolafe",
+    "first_name": "Olamide",
+    "last_name": "Akomolafe",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "olamide.akomolafe@meltwater.org",
+    "phone": "+233501693320",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "SMS",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@theAkomolafe"
+      },
+      "skype": {
+        "link": "olamideakomolafe1234@gmail.com "
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/OlamideAkomolafe"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348138822098"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "osborne.saka",
+    "first_name": "Osborne",
+    "last_name": "Saka",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "osborne.saka@meltwater.org",
+    "phone": "+233501371353",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@oskygh"
+      },
+      "skype": {
+        "link": "kingoskygh"
+      },
+      "linkedin": {
+        "link": "www.linkedin.com/in/osborne-ofosu-saka"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "stephen.nderitu",
+    "first_name": "Stephen ",
+    "last_name": "Wangui",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "stephen.nderitu@meltwater.org",
+    "phone": "+233501693348",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "S.Wangui"
+      },
+      "skype": {
+        "link": "StephenNderitu"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/stephen-nderitu-260227123/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254714630778"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "funsho.olaniyi",
+    "first_name": "Funsho",
+    "last_name": "Olaniyi",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "funsho.olaniyi@meltwater.org",
+    "phone": "+233501693345",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "funsholaniyi.com"
+      },
+      "twitter": {
+        "link": "@funsholaniyi"
+      },
+      "skype": {
+        "link": "funsholaniyi"
+      },
+      "linkedin": {
+        "link": "linkedin.com/in/funsholaniyi"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          "funsholaniyi@gmail.com"
+        ],
+        "phone": [
+          "+2347085827380"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "favour.barde",
+    "first_name": "Favour",
+    "last_name": "Barde",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "favour.barde@meltwater.org",
+    "phone": "+233501693330",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@bardefavour"
+      },
+      "skype": {
+        "link": "Favour Barde  live:bardefavour"
+      },
+      "linkedin": {
+        "link": "linkedin.com/in/favour-barde-94a685110"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2347010215724"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ahmed.madani",
+    "first_name": "Ahmed ",
+    "last_name": "Madani ",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "ahmed.madani@meltwater.org",
+    "phone": "+233050169311",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@ahmedkamal543"
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "http://linkedin.com/in/ahmedkmadani"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Sudan"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+249912836780"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "bekithemba.ngulube",
+    "first_name": "Bekithemba",
+    "last_name": "Ngulube",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "bekithemba.ngulube@meltwater.org",
+    "phone": "+233501693304",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@Bekteema"
+      },
+      "skype": {
+        "link": "@Bekteema"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/bekithemba-ngulube-09423515a/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Zimbabwe"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+27823009834"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "gerishon.mwaniki",
+    "first_name": "Gerishon",
+    "last_name": "Mwaniki",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "gerishon.mwaniki@meltwater.org",
+    "phone": "+233501693339",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@Mwanikigerishon"
+      },
+      "skype": {
+        "link": "@Mwanikigerishon"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/gerishonmwaniki"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254703750271"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "emeka.ndukwe",
+    "first_name": "Chukwuemeka",
+    "last_name": "Ndukwe",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "emeka.ndukwe@meltwater.org",
+    "phone": "+233501693352",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://medium.com/@Mexzy"
+      },
+      "twitter": {
+        "link": "@da_finestmexzy"
+      },
+      "skype": {
+        "link": "mexzysays"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ndukwe-chukwuemeka-7a71baab/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2347033720264"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "moses.adamu",
+    "first_name": "Moses",
+    "last_name": "Adamu",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "moses.adamu@meltwater.org",
+    "phone": "+233501693307",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@AdamuMoses"
+      },
+      "skype": {
+        "link": "Moses Adamu"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/moses-adamu-a0018755/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348164035447"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "esther.njogu",
+    "first_name": "Esther ",
+    "last_name": "Njogu",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "esther.njogu@meltwater.org",
+    "phone": "+233501693308",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/esther-njogu-8112a7a8"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254738937339"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "chidi.nwaogu",
+    "first_name": "Chidi",
+    "last_name": "Nwaogu",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "chidi.nwaogu@meltwater.org",
+    "phone": "+233501693318",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "SMS",
+    "social_media": {
+      "website": {
+        "link": "https://www.publiseer.com"
+      },
+      "twitter": {
+        "link": "@publiseer"
+      },
+      "skype": {
+        "link": "publiseer@gmail.com"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/company/publiseer/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+234814726899"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "victor.okech",
+    "first_name": "Victor",
+    "last_name": "Okech",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "victor.okech@meltwater.org",
+    "phone": "+233501693317",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://meltwater.org"
+      },
+      "twitter": {
+        "link": "@victorokech"
+      },
+      "skype": {
+        "link": "victorokech"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/victorokech/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "onyinye.nnedolisa",
+    "first_name": "Onyinyechukwu",
+    "last_name": "Nnedolisa",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "onyinye.nnedolisa@meltwater.org",
+    "phone": "+233501693341",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@nnedolisa"
+      },
+      "skype": {
+        "link": "Onyinye_sn"
+      },
+      "linkedin": {
+        "link": "http://linkedin.com/in/onyinye-nnedolisa-069403bb"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348132574079"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "eugene.musebe",
+    "first_name": "Eugine ",
+    "last_name": "Musebe",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "eugene.musebe@meltwater.org",
+    "phone": "+233501693338",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "SMS",
+    "social_media": {
+      "website": {
+        "link": "https://musebe.tech/"
+      },
+      "twitter": {
+        "link": "@emusebe9"
+      },
+      "skype": {
+        "link": "@Musebe"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/eugene-musebe-a28771a4/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254726805624"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "oreoluwa.akanni",
+    "first_name": "Oreoluwa",
+    "last_name": "Akanni",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "oreoluwa.akanni@meltwater.org",
+    "phone": "+233501693335",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@alright_amoore"
+      },
+      "skype": {
+        "link": "oreoluwa akanni"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/oreoluwa-akanni-707a15158/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348079083063"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "jacky.kimani",
+    "first_name": "Jacky",
+    "last_name": "Kimani",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "jacky.kimani@meltwater.org",
+    "phone": "+2335001693334",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://jackyk.github.io/"
+      },
+      "twitter": {
+        "link": "@jackykimani13"
+      },
+      "skype": {
+        "link": "jackyk33m"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/jacky-kimani-0266a291/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254701383210"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "kwadwo.agyapon-ntra",
+    "first_name": "Kwadwo",
+    "last_name": "Agyapon-Ntra",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "kwadwo.agyapon-ntra@meltwater.org",
+    "phone": "+233573326858",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://kantra.xyz"
+      },
+      "twitter": {
+        "link": "@KayO_GH"
+      },
+      "skype": {
+        "link": "kwadwo.a.ntra"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/kwadwo-agyapon-ntra-036492a2/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+233501366317"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "zahra.faye",
+    "first_name": "Zahra",
+    "last_name": "Faye",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "zahra.faye@meltwater.org",
+    "phone": "+233548779117",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "zaahra220"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/zahra-faye-5a1743164/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Gambia"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "chevez.pakiry",
+    "first_name": "Chevez",
+    "last_name": "Pakiry",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "chevez.pakiry@meltwater.org",
+    "phone": "+233501693309",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "chevez_pakiry"
+      },
+      "skype": {
+        "link": "chevez.pakiry"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/inchevezpakiry"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "South Africa"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "kenneth.simpson",
+    "first_name": "Kenneth\n",
+    "last_name": "Simpson",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "kenneth.simpson@meltwater.org",
+    "phone": "+233269452522",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@knightshell301"
+      },
+      "skype": {
+        "link": "Kenneth Simpson"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/kenneth-simpson-a49656148/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "abimbola-kofoworola.oladeji",
+    "first_name": "Abimbola- Kofoworola",
+    "last_name": "Oladeji ",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "abimbola-kofoworola.oladeji@meltwater.org",
+    "phone": "+233501693349",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://onbecominggold.wordpress.com"
+      },
+      "twitter": {
+        "link": "@aakoworld"
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/abimbola-kofoworola-oladeji-492541111/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348180533312"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "kayode.daniel",
+    "first_name": "Kayode",
+    "last_name": "Daniel",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "kayode.daniel@meltwater.org",
+    "phone": "+233501693305",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "NIL"
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "Danikay"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/kayode-daniel-/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348137810144"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "kwadwo.danso",
+    "first_name": "Kwadwo",
+    "last_name": "Owusu Danso",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "kwadwo.danso@meltwater.org",
+    "phone": "+233242681160",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "ofei1"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/kwadwo-owusu-danso-86067754"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "feranmi.ogundipe",
+    "first_name": "Oluwaferanmi",
+    "last_name": "Ogundipe",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "feranmi.ogundipe@meltwater.org",
+    "phone": "+233501693315",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "http://oluwaferanmiogundipe.com"
+      },
+      "twitter": {
+        "link": "@leeferanmi"
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/oluwaferanmi-ogundipe-a6534782"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2347062980663"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "mubarak.sumaila",
+    "first_name": "Mubarak",
+    "last_name": "Sumaila",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "mubarak.sumaila@meltwater.org",
+    "phone": "+233545071497",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "SMS",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@the_wanamaker"
+      },
+      "skype": {
+        "link": "mubarak.sumaila@meltwater.org"
+      },
+      "linkedin": {
+        "link": "linkedin.com/in/thewanamaker"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "jacques.amatcha",
+    "first_name": "Jacques",
+    "last_name": "AMATCHA",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "jacques.amatcha@meltwater.org",
+    "phone": "+233501693322",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@AmatchaB"
+      },
+      "skype": {
+        "link": "yannick.jacquesyann"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/jacques-boanerges-amatcha-215bb0bb/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ivory Coast"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+22579829893"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ngunyi.macharia",
+    "first_name": "Kelvin",
+    "last_name": "Ngunyi",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "ngunyi.macharia@meltwater.org",
+    "phone": "+233501693321",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@ngunyimacharia"
+      },
+      "skype": {
+        "link": "kelvin.ngunyi"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ngunyimacharia"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254726832329"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "millicent.koranteng-yorke",
+    "first_name": "Millicent",
+    "last_name": "Koranteng-Yorke",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "millicent.koranteng-yorke@meltwater.org",
+    "phone": "+233501693344",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "KorantengYorke"
+      },
+      "skype": {
+        "link": "Millicent Koranteng-Yorke"
+      },
+      "linkedin": {
+        "link": "www.linkedin.com/in/mkoranteng-yorke"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "todun.osunloye",
+    "first_name": "Todun",
+    "last_name": "Osunloye",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "todun.osunloye@meltwater.org",
+    "phone": "+233501693306",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://todunosun.com"
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "tosunloye"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/todun/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2347010977067"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "jamila.jawula",
+    "first_name": "Jamila",
+    "last_name": "Farouk Jawula",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "jamila.jawula@meltwater.org",
+    "phone": "",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://meltwater.org"
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/jamila-farouk-jawula/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "vivian.opondoh",
+    "first_name": "Vivian",
+    "last_name": "Opondoh",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "vivian.opondoh@meltwater.org",
+    "phone": "+2330501693343",
+    "home_address": "No. 20 Aluguntugui Street,\r\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/vivian-opondoh/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "diana.osei",
+    "first_name": "Diana",
+    "last_name": "Osei",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "diana.osei@meltwater.org",
+    "phone": "+233243646630",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "dayaka1@hotmail.com (Diana Dayaka Osei)"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/dianadosei/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+233265343664"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "micael.die",
+    "first_name": "Gueassaha Mica\u00ebl",
+    "last_name": "Di\u00e9",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "micael.die@meltwater.org",
+    "phone": "+233501693302",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@MicaelDie"
+      },
+      "skype": {
+        "link": "micessien"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/micael-die-887116101/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ivory Coast"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+22507271444"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ada.tapily",
+    "first_name": "ADA",
+    "last_name": "TAPILY",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "ada.tapily@meltwater.org",
+    "phone": "+233501693301",
+    "home_address": "No. 20 Aluguntugui Street,\r\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "adatapily"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ada-tapily-58a51b166/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ivory Coast"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+22374839676"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "amanda.williams",
+    "first_name": "Amanda",
+    "last_name": "Williams",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "amanda.williams@meltwater.org",
+    "phone": "+233501693314",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "midiagirl (midiagirl92@gmail.com)"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/amanda-iwilliams/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Nigeria"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2348171643190"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ropafadzo.musvaire",
+    "first_name": "Ropafadzo",
+    "last_name": "Musvaire",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "ropafadzo.musvaire@meltwater.org",
+    "phone": "+233501693351",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@ropahh101"
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ropafadzo-musvaire-19538467"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Zimbabwe"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "gloria.clement",
+    "first_name": "Gloria",
+    "last_name": "Kaguo",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "gloria.clement@meltwater.org",
+    "phone": "+233501693350",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 CAntome",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": ""
+      },
+      "skype": {
+        "link": "Gloria Clement"
+      },
+      "linkedin": {
+        "link": ""
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Tanzania"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ahmed.elm",
+    "first_name": "Ahmed ",
+    "last_name": "Elmi",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "ahmed.elmi@meltwater.org",
+    "phone": "+233501693323",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@elmi11_ahmed"
+      },
+      "skype": {
+        "link": ""
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ahmed-elmi-6a5369115/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Somalia"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "faderr.johm",
+    "first_name": "Faderr Pachac",
+    "last_name": "Johm",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "faderr.johm@meltwater.org",
+    "phone": "+233501693325",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@1mrblak"
+      },
+      "skype": {
+        "link": "blakjohm"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/faderr-p-johm-48b48672"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Gambia"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254705813764"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "esther.mwangi",
+    "first_name": "Esther ",
+    "last_name": "Mwangi",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Female",
+    "age": 25,
+    "email": "esther.mwangi@meltwater.org",
+    "phone": "+233501693303",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@mwangiwanjiku21"
+      },
+      "skype": {
+        "link": "esther.mwangi34"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/esther-mwangi-20755053/"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254727916020"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "ulrich.mabou",
+    "first_name": "Ulrich ",
+    "last_name": "Mabou ",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "ulrich.mabou@meltwater.org ",
+    "phone": "+233501693312",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": "https://medium.com/@ulrichmabou"
+      },
+      "twitter": {
+        "link": "@joel_mabou"
+      },
+      "skype": {
+        "link": "ulrich.mabou1 "
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/ulrichmabou"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Cameroon"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+2783670035"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Prospect",
+    "username": "wilson.busaka",
+    "first_name": "Wilson",
+    "last_name": "Busaka",
+    "other_names": "",
+    "full_name": "",
+    "gender": "Male",
+    "age": 25,
+    "email": "wilson.busaka@meltwater.org",
+    "phone": "+233501693319",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "PMB CT 13 Cantonments, Accra, Ghana",
+    "contact_method": "SMS",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@iwbusaka"
+      },
+      "skype": {
+        "link": "wbusaka"
+      },
+      "linkedin": {
+        "link": "http://linkedin.com/in/wilson-busaka-84ba8442"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Kenya"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          ""
+        ],
+        "phone": [
+          "+254714952442"
+        ]
+      }
+    }
+  },
+  {
+    "type": "Customer",
+    "username": "mr_amoaddai",
+    "first_name": "Kwadwo",
+    "last_name": "Amo-Addai",
+    "other_names": "Felix",
+    "full_name": "Kwadwo Amo-Addai Felix",
+    "gender": "Male",
+    "age": 23,
+    "email": "kwadwoamoad@gmail.com",
+    "phone": "+233206998117",
+    "home_address": "No. 20 Aluguntugui Street,\nAmbassadorial Enclave, East Legon, Accra, Ghana",
+    "postal_address": "P. O. BOX CT7247 Cantonments - Accra",
+    "contact_method": "Email",
+    "social_media": {
+      "website": {
+        "link": ""
+      },
+      "twitter": {
+        "link": "@mr_amoaddai"
+      },
+      "skype": {
+        "link": "amoaddai95"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/kwadwo-amo-addai-339949136\r\n"
+      }
+    },
+    "segmentation": {
+      "segments": [],
+      "demographics": {},
+      "geographics": {
+        "nationality": "Ghana"
+      },
+      "psychographics": {},
+      "behaviourial": {}
+    },
+    "preferences": {
+      "contact_methods": [
+        "Email",
+        "SMS",
+        "USSD"
+      ],
+      "extra_contacts": {
+        "email": [
+          "kwadwo.amo-addai@meltwater.org"
+        ],
+        "phone": [
+          ""
+        ]
+      }
+    }
+  }
+]
